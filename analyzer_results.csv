@@ -1,0 +1,1083 @@
+verb,tense,input_ipa,predicted_base,predicted_tag,expected_tag_piece,correct
+abide,Present 3rd Singular,#əbaɪdz#,#əbaɪd#,3SG-PRES,3SG-PRES,Right
+abide,Progressive,#əbaɪdɪŋ#,#əbaɪd#,PROG,PROG,Right
+abide,Past,#əbaɪdɪd#,#əbaɪd#,PST/ PST.PTCP,PST,Right
+abide,Perfect,#əbaɪdɪd#,#əbaɪd#,PST/ PST.PTCP,PST,Right
+abolish,Present 3rd Singular,#əbɑlɪʃɪz#,#əbɑlɪʃ#,3SG-PRES,3SG-PRES,Right
+abolish,Progressive,#əbɑlɪʃɪŋ#,#əbɑlɪʃ#,PROG,PROG,Right
+abolish,Past,#əbɑlɪʃt#,#əbɑlɪʃ#,PST/ PST.PTCP,PST,Right
+abolish,Perfect,#əbɑlɪʃt#,#əbɑlɪʃ#,PST/ PST.PTCP,PST,Right
+accept,Present 3rd Singular,#əksɛpts#,#əksɛpt#,3SG-PRES,3SG-PRES,Right
+accept,Progressive,#əksɛptɪŋ#,#əksɛpt#,PROG,PROG,Right
+accept,Past,#əksɛptɪd#,#əksɛpt#,PST/ PST.PTCP,PST,Right
+accept,Perfect,#əksɛptɪd#,#əksɛpt#,PST/ PST.PTCP,PST,Right
+acknowledge,Present 3rd Singular,#əknɑlɪdʒɪz#,#əknɑlɪdʒ#,3SG-PRES,3SG-PRES,Right
+acknowledge,Progressive,#əknɑlɪdʒɪŋ#,#əknɑlɪdʒ#,PROG,PROG,Right
+acknowledge,Past,#əknɑlɪdʒd#,#əknɑlɪdʒ#,PST/ PST.PTCP,PST,Right
+acknowledge,Perfect,#əknɑlɪdʒd#,#əknɑlɪdʒ#,PST/ PST.PTCP,PST,Right
+adapt,Present 3rd Singular,#ədæpts#,#ədæpt#,3SG-PRES,3SG-PRES,Right
+adapt,Progressive,#ədæptɪŋ#,#ədæpt#,PROG,PROG,Right
+adapt,Past,#ədæptɪd#,#ədæpt#,PST/ PST.PTCP,PST,Right
+adapt,Perfect,#ədæptɪd#,#ədæpt#,PST/ PST.PTCP,PST,Right
+admire,Present 3rd Singular,#ədmaɪɹz#,#ədmaɪɹ#,3SG-PRES,3SG-PRES,Right
+admire,Progressive,#ədmaɪɹɪŋ#,#ədmaɪɹ#,PROG,PROG,Right
+admire,Past,#ədmaɪɹd#,#ədmaɪɹ#,PST/ PST.PTCP,PST,Right
+admire,Perfect,#ədmaɪɹd#,#ədmaɪɹ#,PST/ PST.PTCP,PST,Right
+advise,Present 3rd Singular,#ədvaɪzɪz#,#ədvaɪz#,3SG-PRES,3SG-PRES,Right
+advise,Progressive,#ədvaɪzɪŋ#,#ədvaɪz#,PROG,PROG,Right
+advise,Past,#ədvaɪzd#,#ədvaɪz#,PST/ PST.PTCP,PST,Right
+advise,Perfect,#ədvaɪzd#,#ədvaɪz#,PST/ PST.PTCP,PST,Right
+afford,Present 3rd Singular,#ʌfoɹdz#,#ʌfoɹd#,3SG-PRES,3SG-PRES,Right
+afford,Progressive,#ʌfoɹdɪŋ#,#ʌfoɹd#,PROG,PROG,Right
+afford,Past,#ʌfoɹdɪd#,#ʌfoɹd#,PST/ PST.PTCP,PST,Right
+afford,Perfect,#ʌfoɹdɪd#,#ʌfoɹd#,PST/ PST.PTCP,PST,Right
+allow,Present 3rd Singular,#əlaʊz#,#əlaʊ#,3SG-PRES,3SG-PRES,Right
+allow,Progressive,#əlaʊɪŋ#,#əlaʊ#,PROG,PROG,Right
+allow,Past,#əlaʊd#,#əlaʊ#,PST/ PST.PTCP,PST,Right
+allow,Perfect,#əlaʊd#,#əlaʊ#,PST/ PST.PTCP,PST,Right
+amuse,Present 3rd Singular,#əmjuzɪz#,#əmjuz#,3SG-PRES,3SG-PRES,Right
+amuse,Progressive,#əmjuzɪŋ#,#əmjuz#,PROG,PROG,Right
+amuse,Past,#əmjuzd#,#əmjuz#,PST/ PST.PTCP,PST,Right
+amuse,Perfect,#əmjuzd#,#əmjuz#,PST/ PST.PTCP,PST,Right
+apologize,Present 3rd Singular,#əpɑlədʒaɪzɪz#,#əpɑlədʒaɪz#,3SG-PRES,3SG-PRES,Right
+apologize,Progressive,#əpɑlədʒaɪzɪŋ#,#əpɑlədʒaɪz#,PROG,PROG,Right
+apologize,Past,#əpɑlədʒaɪzd#,#əpɑlədʒaɪz#,PST/ PST.PTCP,PST,Right
+apologize,Perfect,#əpɑlədʒaɪzd#,#əpɑlədʒaɪz#,PST/ PST.PTCP,PST,Right
+arrange,Present 3rd Singular,#əreɪndʒɪz#,#əreɪndʒ#,3SG-PRES,3SG-PRES,Right
+arrange,Progressive,#əreɪndʒɪŋ#,#əreɪndʒ#,PROG,PROG,Right
+arrange,Past,#əreɪndʒd#,#əreɪndʒ#,PST/ PST.PTCP,PST,Right
+arrange,Perfect,#əreɪndʒd#,#əreɪndʒ#,PST/ PST.PTCP,PST,Right
+arise,Present 3rd Singular,#əɹaɪzɪz#,#əɹaɪz#,3SG-PRES,3SG-PRES,Right
+arise,Progressive,#əɹaɪzɪŋ#,#əɹaɪz#,PROG,PROG,Right
+arise,Past,#əɹoʊz#,#əraɪz#,PST,PST,Wrong
+arise,Perfect,#əɹɪzən#,#əraɪz#,PST.PTCP,PST,Wrong
+arrive,Present 3rd Singular,#əɹaɪvz#,#əɹaɪv#,3SG-PRES,3SG-PRES,Right
+arrive,Progressive,#əɹaɪvɪŋ#,#əɹaɪv#,PROG,PROG,Right
+arrive,Past,#əɹaɪvd#,#əɹaɪv#,PST/ PST.PTCP,PST,Right
+arrive,Perfect,#əɹaɪvd#,#əɹaɪv#,PST/ PST.PTCP,PST,Right
+assist,Present 3rd Singular,#əsɪsts#,#əsɪst#,3SG-PRES,3SG-PRES,Right
+assist,Progressive,#əsɪstɪŋ#,#əsɪst#,PROG,PROG,Right
+assist,Past,#əsɪstɪd#,#əsɪst#,PST/ PST.PTCP,PST,Right
+assist,Perfect,#əsɪstɪd#,#əsɪst#,PST/ PST.PTCP,PST,Right
+ask,Present 3rd Singular,#æsks#,#æsk#,3SG-PRES,3SG-PRES,Right
+ask,Progressive,#æskɪŋ#,#æsk#,PROG,PROG,Right
+ask,Past,#æskt#,#æsk#,PST/ PST.PTCP,PST,Right
+ask,Perfect,#æskt#,#æsk#,PST/ PST.PTCP,PST,Right
+associate,Present 3rd Singular,#əsoʊʃieɪts#,#əsoʊʃieɪt#,3SG-PRES,3SG-PRES,Right
+associate,Progressive,#əsoʊʃieɪtɪŋ#,#əsoʊʃieɪt#,PROG,PROG,Right
+associate,Past,#əsoʊʃieɪtɪd#,#əsoʊʃieɪt#,PST/ PST.PTCP,PST,Right
+associate,Perfect,#əsoʊʃieɪtɪd#,#əsoʊʃieɪt#,PST/ PST.PTCP,PST,Right
+attend,Present 3rd Singular,#ətɛndz#,#ətɛnd#,3SG-PRES,3SG-PRES,Right
+attend,Progressive,#ətɛndɪŋ#,#ətɛnd#,PROG,PROG,Right
+attend,Past,#ətɛndɪd#,#ətɛnd#,PST/ PST.PTCP,PST,Right
+attend,Perfect,#ətɛndɪd#,#ətɛnd#,PST/ PST.PTCP,PST,Right
+awake,Present 3rd Singular,#əweɪks#,#əweɪk#,3SG-PRES,3SG-PRES,Right
+awake,Progressive,#əweɪkɪŋ#,#əweɪk#,PROG,PROG,Right
+awake,Past,#əwoʊk#,#əweɪk#,PST,PST,Right
+awake,Perfect,#əwoʊkən#,#əweɪk#,PST.PTCP,PST,Right
+balance,Present 3rd Singular,#bælənsɪz#,#bæləns#,3SG-PRES,3SG-PRES,Right
+balance,Progressive,#bælənsɪŋ#,#bæləns#,PROG,PROG,Right
+balance,Past,#bælənst#,#bæləns#,PST/ PST.PTCP,PST,Right
+balance,Perfect,#bælənst#,#bæləns#,PST/ PST.PTCP,PST,Right
+ban,Present 3rd Singular,#bænz#,#bæn#,3SG-PRES,3SG-PRES,Right
+ban,Progressive,#bænɪŋ#,#bæn#,PROG,PROG,Right
+ban,Past,#bænd#,#bæn#,PST/ PST.PTCP,PST,Right
+ban,Perfect,#bænd#,#bæn#,PST/ PST.PTCP,PST,Right
+bake,Present 3rd Singular,#beɪks#,#beɪk#,3SG-PRES,3SG-PRES,Right
+bake,Progressive,#beɪkɪŋ#,#beɪk#,PROG,PROG,Right
+bake,Past,#beɪkt#,#beɪk#,PST/ PST.PTCP,PST,Right
+bake,Perfect,#beɪkt#,#beɪk#,PST/ PST.PTCP,PST,Right
+bargain,Present 3rd Singular,#bɑɹgənz#,#bɑɹgən#,3SG-PRES,3SG-PRES,Right
+bargain,Progressive,#bɑɹgənɪŋ#,#bɑɹgən#,PROG,PROG,Right
+bargain,Past,#bɑɹgənd#,#bɑɹgən#,PST/ PST.PTCP,PST,Right
+bargain,Perfect,#bɑɹgənd#,#bɑɹgən#,PST/ PST.PTCP,PST,Right
+bark,Present 3rd Singular,#bɑɹks#,#bɑɹk#,3SG-PRES,3SG-PRES,Right
+bark,Progressive,#bɑɹkɪŋ#,#bɑɹk#,PROG,PROG,Right
+bark,Past,#bɑɹkt#,#bɑɹk#,PST/ PST.PTCP,PST,Right
+bark,Perfect,#bɑɹkt#,#bɑɹk#,PST/ PST.PTCP,PST,Right
+bat,Present 3rd Singular,#bæts#,#bæt#,3SG-PRES,3SG-PRES,Right
+bat,Progressive,#bætɪŋ#,#bæt#,PROG,PROG,Right
+bat,Past,#bætɪd#,#bæt#,PST/ PST.PTCP,PST,Right
+bat,Perfect,#bætɪd#,#bæt#,PST/ PST.PTCP,PST,Right
+bathe,Present 3rd Singular,#beɪðz#,#beɪð#,3SG-PRES,3SG-PRES,Right
+bathe,Progressive,#beɪðɪŋ#,#beɪð#,PROG,PROG,Right
+bathe,Past,#beɪðd#,#beɪð#,PST/ PST.PTCP,PST,Right
+bathe,Perfect,#beɪðd#,#beɪð#,PST/ PST.PTCP,PST,Right
+be,Present 3rd Singular,#ɪz#,#bi#,PRES,3SG-PRES,Wrong
+be,Progressive,#biɪŋ#,#bi#,PROG,PROG,Right
+be,Past,#wʌz#,#wʌ#,3SG-PRES,PST,Wrong
+be,Perfect,#bɪn#,#bi#,PST.PTCP,PST,Right
+beam,Present 3rd Singular,#bimz#,#bim#,3SG-PRES,3SG-PRES,Right
+beam,Progressive,#bimɪŋ#,#bim#,PROG,PROG,Right
+beam,Past,#bimd#,#bim#,PST/ PST.PTCP,PST,Right
+beam,Perfect,#bimd#,#bim#,PST/ PST.PTCP,PST,Right
+bear,Present 3rd Singular,#bɛɹz#,#bɛɹ#,3SG-PRES,3SG-PRES,Right
+bear,Progressive,#bɛɹɪŋ#,#bɛɹ#,PROG,PROG,Right
+bear,Past,#bɔɹ#,#bɛɹ#,PST,PST,Right
+bear,Perfect,#bɔɹn#,#bɛɹ#,PST.PTCP,PST,Right
+beat,Present 3rd Singular,#bits#,#bit#,3SG-PRES,3SG-PRES,Right
+beat,Progressive,#bitɪŋ#,#bit#,PROG,PROG,Right
+beat,Past,#bit#,#bit#,PST,PST,Right
+beat,Perfect,#bitən#,#bit#,PST.PTCP,PST,Right
+beckon,Present 3rd Singular,#bɛkənz#,#bɛkən#,3SG-PRES,3SG-PRES,Right
+beckon,Progressive,#bɛkənɪŋ#,#bɛkən#,PROG,PROG,Right
+beckon,Past,#bɛkənd#,#bɛkən#,PST/ PST.PTCP,PST,Right
+beckon,Perfect,#bɛkənd#,#bɛkən#,PST/ PST.PTCP,PST,Right
+become,Present 3rd Singular,#bɪkʌmz#,#bɪkʌm#,3SG-PRES,3SG-PRES,Right
+become,Progressive,#bɪkʌmɪŋ#,#bɪkʌm#,PROG,PROG,Right
+become,Past,#bɪkeɪm#,#bɪkʌm#,PST,PST,Right
+become,Perfect,#bɪkʌm#,#bɪkʌm#,PST.PTCP,PST,Right
+beep,Present 3rd Singular,#bips#,#bip#,3SG-PRES,3SG-PRES,Right
+beep,Progressive,#bipɪŋ#,#bip#,PROG,PROG,Right
+beep,Past,#bipt#,#bip#,PST/ PST.PTCP,PST,Right
+beep,Perfect,#bipt#,#bip#,PST/ PST.PTCP,PST,Right
+beg,Present 3rd Singular,#bɛgz#,#bɛg#,3SG-PRES,3SG-PRES,Right
+beg,Progressive,#bɛgɪŋ#,#bɛg#,PROG,PROG,Right
+beg,Past,#bɛgd#,#bɛg#,PST/ PST.PTCP,PST,Right
+beg,Perfect,#bɛgd#,#bɛg#,PST/ PST.PTCP,PST,Right
+begin,Present 3rd Singular,#bɪgɪnz#,#bɪgɪn#,3SG-PRES,3SG-PRES,Right
+begin,Progressive,#bɪgɪnɪŋ#,#bɪgɪn#,PROG,PROG,Right
+begin,Past,#bɪgæn#,#bɪgɪn#,PST,PST,Right
+begin,Perfect,#bɪgʌn#,#bɪgɪn#,PST.PTCP,PST,Right
+believe,Present 3rd Singular,#bɪlivz#,#bɪliv#,3SG-PRES,3SG-PRES,Right
+believe,Progressive,#bɪlivɪŋ#,#bɪliv#,PROG,PROG,Right
+believe,Past,#bɪlivd#,#bɪliv#,PST/ PST.PTCP,PST,Right
+believe,Perfect,#bɪlivd#,#bɪliv#,PST/ PST.PTCP,PST,Right
+bend,Present 3rd Singular,#bɛndz#,#bɛnd#,3SG-PRES,3SG-PRES,Right
+bend,Progressive,#bɛndɪŋ#,#bɛnd#,PROG,PROG,Right
+bend,Past,#bɛnt#,#bɛnd#,PST/ PST.PTCP,PST,Right
+bend,Perfect,#bɛnt#,#bɛnd#,PST/ PST.PTCP,PST,Right
+benefit,Present 3rd Singular,#bɛnəfɪts#,#bɛnəfɪt#,3SG-PRES,3SG-PRES,Right
+benefit,Progressive,#bɛnəfɪtɪŋ#,#bɛnəfɪt#,PROG,PROG,Right
+benefit,Past,#bɛnəfɪtɪd#,#bɛnəfɪt#,PST/ PST.PTCP,PST,Right
+benefit,Perfect,#bɛnəfɪtɪd#,#bɛnəfɪt#,PST/ PST.PTCP,PST,Right
+bet,Present 3rd Singular,#bɛts#,#bɛt#,3SG-PRES,3SG-PRES,Right
+bet,Progressive,#bɛtɪŋ#,#bɛt#,PROG,PROG,Right
+bet,Past,#bɛt#,#bɛt#,PST/ PST.PTCP,PST,Right
+bet,Perfect,#bɛt#,#bɛt#,PST/ PST.PTCP,PST,Right
+beware,Present 3rd Singular,#bɪwɛɹz#,#bɪwɛɹ#,3SG-PRES,3SG-PRES,Right
+beware,Progressive,#bɪwɛɹɪŋ#,#bɪwɛɹ#,PROG,PROG,Right
+beware,Past,#bɪwɛɹd#,#bɪwɛɹ#,PST/ PST.PTCP,PST,Right
+beware,Perfect,#bɪwɛɹd#,#bɪwɛɹ#,PST/ PST.PTCP,PST,Right
+bewitch,Present 3rd Singular,#bɪwɪtʃɪz#,#bɪwɪtʃ#,3SG-PRES,3SG-PRES,Right
+bewitch,Progressive,#bɪwɪtʃɪŋ#,#bɪwɪtʃ#,PROG,PROG,Right
+bewitch,Past,#bɪwɪtʃt#,#bɪwɪtʃ#,PST/ PST.PTCP,PST,Right
+bewitch,Perfect,#bɪwɪtʃt#,#bɪwɪtʃ#,PST/ PST.PTCP,PST,Right
+bind,Present 3rd Singular,#baɪndz#,#baɪnd#,3SG-PRES,3SG-PRES,Right
+bind,Progressive,#baɪndɪŋ#,#baɪnd#,PROG,PROG,Right
+bind,Past,#baʊnd#,#baɪnd#,PST/ PST.PTCP,PST,Right
+bind,Perfect,#baʊnd#,#baɪnd#,PST/ PST.PTCP,PST,Right
+bite,Present 3rd Singular,#baɪts#,#baɪt#,3SG-PRES,3SG-PRES,Right
+bite,Progressive,#baɪtɪŋ#,#baɪt#,PROG,PROG,Right
+bite,Past,#bɪt#,#bɪ#,PST/ PST.PTCP,PST,Wrong
+bite,Perfect,#bɪtən#,#bɪtən#,BARE,PST,Wrong
+bleed,Present 3rd Singular,#blidz#,#blid#,3SG-PRES,3SG-PRES,Right
+bleed,Progressive,#blidɪŋ#,#blid#,PROG,PROG,Right
+bleed,Past,#blɛd#,#blid#,PST/ PST.PTCP,PST,Right
+bleed,Perfect,#blɛd#,#blid#,PST/ PST.PTCP,PST,Right
+bless,Present 3rd Singular,#blɛsɪz#,#blɛs#,3SG-PRES,3SG-PRES,Right
+bless,Progressive,#blɛsɪŋ#,#blɛs#,PROG,PROG,Right
+bless,Past,#blɛst#,#blɛs#,PST/ PST.PTCP,PST,Right
+bless,Perfect,#blɛst#,#blɛs#,PST/ PST.PTCP,PST,Right
+blink,Present 3rd Singular,#blɪŋks#,#blɪŋk#,3SG-PRES,3SG-PRES,Right
+blink,Progressive,#blɪŋkɪŋ#,#blɪŋk#,PROG,PROG,Right
+blink,Past,#blɪŋkt#,#blɪŋk#,PST/ PST.PTCP,PST,Right
+blink,Perfect,#blɪŋkt#,#blɪŋk#,PST/ PST.PTCP,PST,Right
+blister,Present 3rd Singular,#blɪstəɹz#,#blɪstəɹ#,3SG-PRES,3SG-PRES,Right
+blister,Progressive,#blɪstəɹɪŋ#,#blɪstəɹ#,PROG,PROG,Right
+blister,Past,#blɪstəɹd#,#blɪstəɹ#,PST/ PST.PTCP,PST,Right
+blister,Perfect,#blɪstəɹd#,#blɪstəɹ#,PST/ PST.PTCP,PST,Right
+blow,Present 3rd Singular,#bloʊz#,#bloʊ#,3SG-PRES,3SG-PRES,Right
+blow,Progressive,#bloʊɪŋ#,#bloʊ#,PROG,PROG,Right
+blow,Past,#blu#,#bloʊ#,PST,PST,Right
+blow,Perfect,#bloʊn#,#bloʊ#,PST.PTCP,PST,Right
+blurt,Present 3rd Singular,#blɝts#,#blɝt#,3SG-PRES,3SG-PRES,Right
+blurt,Progressive,#blɝtɪŋ#,#blɝt#,PROG,PROG,Right
+blurt,Past,#blɝtɪd#,#blɝt#,PST/ PST.PTCP,PST,Right
+blurt,Perfect,#blɝtɪd#,#blɝt#,PST/ PST.PTCP,PST,Right
+boast,Present 3rd Singular,#boʊsts#,#boʊst#,3SG-PRES,3SG-PRES,Right
+boast,Progressive,#boʊstɪŋ#,#boʊst#,PROG,PROG,Right
+boast,Past,#boʊstɪd#,#boʊst#,PST/ PST.PTCP,PST,Right
+boast,Perfect,#boʊstɪd#,#boʊst#,PST/ PST.PTCP,PST,Right
+boil,Present 3rd Singular,#bɔɪlz#,#bɔɪl#,3SG-PRES,3SG-PRES,Right
+boil,Progressive,#bɔɪlɪŋ#,#bɔɪl#,PROG,PROG,Right
+boil,Past,#bɔɪld#,#bɔɪl#,PST/ PST.PTCP,PST,Right
+boil,Perfect,#bɔɪld#,#bɔɪl#,PST/ PST.PTCP,PST,Right
+bolster,Present 3rd Singular,#boʊlstəɹz#,#boʊlstəɹ#,3SG-PRES,3SG-PRES,Right
+bolster,Progressive,#boʊlstəɹɪŋ#,#boʊlstəɹ#,PROG,PROG,Right
+bolster,Past,#boʊlstəɹd#,#boʊlstəɹ#,PST/ PST.PTCP,PST,Right
+bolster,Perfect,#boʊlstəɹd#,#boʊlstəɹ#,PST/ PST.PTCP,PST,Right
+bounce,Present 3rd Singular,#baʊnsɪz#,#baʊns#,3SG-PRES,3SG-PRES,Right
+bounce,Progressive,#baʊnsɪŋ#,#baʊns#,PROG,PROG,Right
+bounce,Past,#baʊnst#,#baʊns#,PST/ PST.PTCP,PST,Right
+bounce,Perfect,#baʊnst#,#baʊns#,PST/ PST.PTCP,PST,Right
+bow,Present 3rd Singular,#baʊz#,#baʊ#,3SG-PRES,3SG-PRES,Right
+bow,Progressive,#baʊɪŋ#,#baʊ#,PROG,PROG,Right
+bow,Past,#baʊd#,#baʊ#,PST/ PST.PTCP,PST,Right
+bow,Perfect,#baʊd#,#baʊ#,PST/ PST.PTCP,PST,Right
+brace,Present 3rd Singular,#breɪsɪz#,#breɪs#,3SG-PRES,3SG-PRES,Right
+brace,Progressive,#breɪsɪŋ#,#breɪs#,PROG,PROG,Right
+brace,Past,#breɪst#,#breɪs#,PST/ PST.PTCP,PST,Right
+brace,Perfect,#breɪst#,#breɪs#,PST/ PST.PTCP,PST,Right
+break,Present 3rd Singular,#bɹeɪks#,#bɹeɪk#,3SG-PRES,3SG-PRES,Right
+break,Progressive,#bɹeɪkɪŋ#,#bɹeɪk#,PROG,PROG,Right
+break,Past,#bɹoʊk#,#bɹeɪk#,PST,PST,Right
+break,Perfect,#bɹoʊkən#,#bɹeɪk#,PST.PTCP,PST,Right
+bring,Present 3rd Singular,#bɹɪŋz#,#bɹɪŋ#,3SG-PRES,3SG-PRES,Right
+bring,Progressive,#bɹɪŋɪŋ#,#bɹɪŋ#,PROG,PROG,Right
+bring,Past,#bɹɔt#,#bɹɪŋ#,PST.PTCP,PST,Right
+bring,Perfect,#bɹɔt#,#bɹɪŋ#,PST.PTCP,PST,Right
+broadcast,Present 3rd Singular,#bɹɔdkæsts#,#bɹɔdkæst#,3SG-PRES,3SG-PRES,Right
+broadcast,Progressive,#bɹɔdkæstɪŋ#,#bɹɔdkæst#,PROG,PROG,Right
+broadcast,Past,#bɹɔdkæst#,#bɹɔdkæs#,PST/ PST.PTCP,PST,Wrong
+broadcast,Perfect,#bɹɔdkæst#,#bɹɔdkæs#,PST/ PST.PTCP,PST,Wrong
+bruise,Present 3rd Singular,#bɹuzɪz#,#bɹuz#,3SG-PRES,3SG-PRES,Right
+bruise,Progressive,#bɹuzɪŋ#,#bɹuz#,PROG,PROG,Right
+bruise,Past,#bɹuzd#,#bɹuz#,PST/ PST.PTCP,PST,Right
+bruise,Perfect,#bɹuzd#,#bɹuz#,PST/ PST.PTCP,PST,Right
+brush,Present 3rd Singular,#bɹʌʃɪz#,#bɹʌʃ#,3SG-PRES,3SG-PRES,Right
+brush,Progressive,#bɹʌʃɪŋ#,#bɹʌʃ#,PROG,PROG,Right
+brush,Past,#bɹʌʃt#,#bɹʌʃ#,PST/ PST.PTCP,PST,Right
+brush,Perfect,#bɹʌʃt#,#bɹʌʃ#,PST/ PST.PTCP,PST,Right
+build,Present 3rd Singular,#bɪldz#,#bɪld#,3SG-PRES,3SG-PRES,Right
+build,Progressive,#bɪldɪŋ#,#bɪld#,PROG,PROG,Right
+build,Past,#bɪlt#,#bɪld#,PST/ PST.PTCP,PST,Right
+build,Perfect,#bɪlt#,#bɪld#,PST/ PST.PTCP,PST,Right
+bundle,Present 3rd Singular,#bʌndlz#,#bʌndl#,3SG-PRES,3SG-PRES,Right
+bundle,Progressive,#bʌndlɪŋ#,#bʌndl#,PROG,PROG,Right
+bundle,Past,#bʌndld#,#bʌndl#,PST/ PST.PTCP,PST,Right
+bundle,Perfect,#bʌndld#,#bʌndl#,PST/ PST.PTCP,PST,Right
+burden,Present 3rd Singular,#bɝdənz#,#bɝdən#,3SG-PRES,3SG-PRES,Right
+burden,Progressive,#bɝdənɪŋ#,#bɝdən#,PROG,PROG,Right
+burden,Past,#bɝdənd#,#bɝdən#,PST/ PST.PTCP,PST,Right
+burden,Perfect,#bɝdənd#,#bɝdən#,PST/ PST.PTCP,PST,Right
+burst,Present 3rd Singular,#bɝsts#,#bɝst#,3SG-PRES,3SG-PRES,Right
+burst,Progressive,#bɝstɪŋ#,#bɝst#,PROG,PROG,Right
+burst,Past,#bɝst#,#bɝst#,PST/ PST.PTCP,PST,Right
+burst,Perfect,#bɝst#,#bɝst#,PST/ PST.PTCP,PST,Right
+buy,Present 3rd Singular,#baɪz#,#ba#,3SG-PRES,3SG-PRES,Wrong
+buy,Progressive,#baɪɪŋ#,#baɪ#,PROG,PROG,Right
+buy,Past,#bɔt#,#baɪ#,PST/ PST.PTCP,PST,Right
+buy,Perfect,#bɔt#,#baɪ#,PST/ PST.PTCP,PST,Right
+calculate,Present 3rd Singular,#kælkjəleɪts#,#kælkjəleɪt#,3SG-PRES,3SG-PRES,Right
+calculate,Progressive,#kælkjəleɪtɪŋ#,#kælkjəleɪt#,PROG,PROG,Right
+calculate,Past,#kælkjəleɪtɪd#,#kælkjəleɪt#,PST/ PST.PTCP,PST,Right
+calculate,Perfect,#kælkjəleɪtɪd#,#kælkjəleɪt#,PST/ PST.PTCP,PST,Right
+call,Present 3rd Singular,#kɔlz#,#kɔl#,3SG-PRES,3SG-PRES,Right
+call,Progressive,#kɔlɪŋ#,#kɔl#,PROG,PROG,Right
+call,Past,#kɔld#,#kɔl#,PST/ PST.PTCP,PST,Right
+call,Perfect,#kɔld#,#kɔl#,PST/ PST.PTCP,PST,Right
+camp,Present 3rd Singular,#kæmps#,#kæmp#,3SG-PRES,3SG-PRES,Right
+camp,Progressive,#kæmpɪŋ#,#kæmp#,PROG,PROG,Right
+camp,Past,#kæmpt#,#kæmp#,PST/ PST.PTCP,PST,Right
+camp,Perfect,#kæmpt#,#kæmp#,PST/ PST.PTCP,PST,Right
+can,Present 3rd Singular,#kæn#,#kæn#,BARE,3SG-PRES,Wrong
+can,Progressive,No Progressive,,,PROG,Wrong
+can,Past,#kʊd#,#kʊ#,PST/ PST.PTCP,PST,Wrong
+can,Perfect,No Perfect Participle,,,PST,Wrong
+capture,Present 3rd Singular,#kæptʃəɹz#,#kæptʃəɹ#,3SG-PRES,3SG-PRES,Right
+capture,Progressive,#kæptʃəɹɪŋ#,#kæptʃəɹ#,PROG,PROG,Right
+capture,Past,#kæptʃəɹd#,#kæptʃəɹ#,PST/ PST.PTCP,PST,Right
+capture,Perfect,#kæptʃəɹd#,#kæptʃəɹ#,PST/ PST.PTCP,PST,Right
+carve,Present 3rd Singular,#kɑɹvz#,#kɑɹv#,3SG-PRES,3SG-PRES,Right
+carve,Progressive,#kɑɹvɪŋ#,#kɑɹv#,PROG,PROG,Right
+carve,Past,#kɑɹvd#,#kɑɹv#,PST/ PST.PTCP,PST,Right
+carve,Perfect,#kɑɹvd#,#kɑɹv#,PST/ PST.PTCP,PST,Right
+catch,Present 3rd Singular,#kæʧɪz#,#kæʧ#,3SG-PRES,3SG-PRES,Right
+catch,Progressive,#kæʧɪŋ#,#kæʧ#,PROG,PROG,Right
+catch,Past,#kɔt#,#kæʧ#,PST/ PST.PTCP,PST,Right
+catch,Perfect,#kɔt#,#kæʧ#,PST/ PST.PTCP,PST,Right
+celebrate,Present 3rd Singular,#sɛləbreɪts#,#sɛləbreɪt#,3SG-PRES,3SG-PRES,Right
+celebrate,Progressive,#sɛləbreɪtɪŋ#,#sɛləbreɪt#,PROG,PROG,Right
+celebrate,Past,#sɛləbreɪtɪd#,#sɛləbreɪt#,PST/ PST.PTCP,PST,Right
+celebrate,Perfect,#sɛləbreɪtɪd#,#sɛləbreɪt#,PST/ PST.PTCP,PST,Right
+challenge,Present 3rd Singular,#tʃælɪndʒɪz#,#tʃælɪndʒ#,3SG-PRES,3SG-PRES,Right
+challenge,Progressive,#tʃælɪndʒɪŋ#,#tʃælɪndʒ#,PROG,PROG,Right
+challenge,Past,#tʃælɪndʒd#,#tʃælɪndʒ#,PST/ PST.PTCP,PST,Right
+challenge,Perfect,#tʃælɪndʒd#,#tʃælɪndʒ#,PST/ PST.PTCP,PST,Right
+change,Present 3rd Singular,#tʃeɪndʒɪz#,#tʃeɪndʒ#,3SG-PRES,3SG-PRES,Right
+change,Progressive,#tʃeɪndʒɪŋ#,#tʃeɪndʒ#,PROG,PROG,Right
+change,Past,#tʃeɪndʒd#,#tʃeɪndʒ#,PST/ PST.PTCP,PST,Right
+change,Perfect,#tʃeɪndʒd#,#tʃeɪndʒ#,PST/ PST.PTCP,PST,Right
+charge,Present 3rd Singular,#tʃɑɹdʒɪz#,#tʃɑɹdʒ#,3SG-PRES,3SG-PRES,Right
+charge,Progressive,#tʃɑɹdʒɪŋ#,#tʃɑɹdʒ#,PROG,PROG,Right
+charge,Past,#tʃɑɹdʒd#,#tʃɑɹdʒ#,PST/ PST.PTCP,PST,Right
+charge,Perfect,#tʃɑɹdʒd#,#tʃɑɹdʒ#,PST/ PST.PTCP,PST,Right
+cheer,Present 3rd Singular,#tʃɪɹz#,#tʃɪɹ#,3SG-PRES,3SG-PRES,Right
+cheer,Progressive,#tʃɪɹɪŋ#,#tʃɪɹ#,PROG,PROG,Right
+cheer,Past,#tʃɪɹd#,#tʃɪɹ#,PST/ PST.PTCP,PST,Right
+cheer,Perfect,#tʃɪɹd#,#tʃɪɹ#,PST/ PST.PTCP,PST,Right
+chew,Present 3rd Singular,#tʃuz#,#tʃu#,3SG-PRES,3SG-PRES,Right
+chew,Progressive,#tʃuɪŋ#,#tʃu#,PROG,PROG,Right
+chew,Past,#tʃud#,#tʃu#,PST/ PST.PTCP,PST,Right
+chew,Perfect,#tʃud#,#tʃu#,PST/ PST.PTCP,PST,Right
+choose,Present 3rd Singular,#ʧuzɪz#,#ʧuz#,3SG-PRES,3SG-PRES,Right
+choose,Progressive,#ʧuzɪŋ#,#ʧuz#,PROG,PROG,Right
+choose,Past,#ʧoʊz#,#ʧuz#,PST,PST,Right
+choose,Perfect,#ʧoʊzən#,#ʧuz#,PST.PTCP,PST,Right
+clap,Present 3rd Singular,#klæps#,#klæp#,3SG-PRES,3SG-PRES,Right
+clap,Progressive,#klæpɪŋ#,#klæp#,PROG,PROG,Right
+clap,Past,#klæpt#,#klæp#,PST/ PST.PTCP,PST,Right
+clap,Perfect,#klæpt#,#klæp#,PST/ PST.PTCP,PST,Right
+clarify,Present 3rd Singular,#klɛɹəfaɪz#,#klɛɹəfa#,3SG-PRES,3SG-PRES,Wrong
+clarify,Progressive,#klɛɹəfaɪɪŋ#,#klɛɹəfaɪ#,PROG,PROG,Right
+clarify,Past,#klɛɹəfaɪd#,#klɛɹəfa#,PST/ PST.PTCP,PST,Wrong
+clarify,Perfect,#klɛɹəfaɪd#,#klɛɹəfa#,PST/ PST.PTCP,PST,Wrong
+classify,Present 3rd Singular,#klæsəfaɪz#,#klæsəfa#,3SG-PRES,3SG-PRES,Wrong
+classify,Progressive,#klæsəfaɪɪŋ#,#klæsəfaɪ#,PROG,PROG,Right
+classify,Past,#klæsəfaɪd#,#klæsəfa#,PST/ PST.PTCP,PST,Wrong
+classify,Perfect,#klæsəfaɪd#,#klæsəfa#,PST/ PST.PTCP,PST,Wrong
+clean,Present 3rd Singular,#klinz#,#klin#,3SG-PRES,3SG-PRES,Right
+clean,Progressive,#klinɪŋ#,#klin#,PROG,PROG,Right
+clean,Past,#klind#,#klin#,PST/ PST.PTCP,PST,Right
+clean,Perfect,#klind#,#klin#,PST/ PST.PTCP,PST,Right
+cleanse,Present 3rd Singular,#klɛnzɪz#,#klɛnz#,3SG-PRES,3SG-PRES,Right
+cleanse,Progressive,#klɛnzɪŋ#,#klɛnz#,PROG,PROG,Right
+cleanse,Past,#klɛnzd#,#klɛnz#,PST/ PST.PTCP,PST,Right
+cleanse,Perfect,#klɛnzd#,#klɛnz#,PST/ PST.PTCP,PST,Right
+come,Present 3rd Singular,#kʌmz#,#kʌm#,3SG-PRES,3SG-PRES,Right
+come,Progressive,#kʌmɪŋ#,#kʌm#,PROG,PROG,Right
+come,Past,#keɪm#,#kʌm#,PST,PST,Right
+come,Perfect,#kʌm#,#kʌm#,PST.PTCP,PST,Right
+command,Present 3rd Singular,#kəmændz#,#kəmænd#,3SG-PRES,3SG-PRES,Right
+command,Progressive,#kəmændɪŋ#,#kəmænd#,PROG,PROG,Right
+command,Past,#kəmændɪd#,#kəmænd#,PST/ PST.PTCP,PST,Right
+command,Perfect,#kəmændɪd#,#kəmænd#,PST/ PST.PTCP,PST,Right
+compare,Present 3rd Singular,#kəmpɛɹz#,#kəmpɛɹ#,3SG-PRES,3SG-PRES,Right
+compare,Progressive,#kəmpɛɹɪŋ#,#kəmpɛɹ#,PROG,PROG,Right
+compare,Past,#kəmpɛɹd#,#kəmpɛɹ#,PST/ PST.PTCP,PST,Right
+compare,Perfect,#kəmpɛɹd#,#kəmpɛɹ#,PST/ PST.PTCP,PST,Right
+confront,Present 3rd Singular,#kənfɹʌnts#,#kənfɹʌnt#,3SG-PRES,3SG-PRES,Right
+confront,Progressive,#kənfɹʌntɪŋ#,#kənfɹʌnt#,PROG,PROG,Right
+confront,Past,#kənfɹʌntɪd#,#kənfɹʌnt#,PST/ PST.PTCP,PST,Right
+confront,Perfect,#kənfɹʌntɪd#,#kənfɹʌnt#,PST/ PST.PTCP,PST,Right
+cost,Present 3rd Singular,#kɔsts#,#kɔst#,3SG-PRES,3SG-PRES,Right
+cost,Progressive,#kɔstɪŋ#,#kɔst#,PROG,PROG,Right
+cost,Past,#kɔst#,#kɔst#,PST/ PST.PTCP,PST,Right
+cost,Perfect,#kɔst#,#kɔst#,PST/ PST.PTCP,PST,Right
+could,Present 3rd Singular,#kʊd#,#kʊ#,PST/ PST.PTCP,3SG-PRES,Wrong
+could,Progressive,No Progressive,,,PROG,Wrong
+could,Past,#kʊd#,#kʊ#,PST/ PST.PTCP,PST,Wrong
+could,Perfect,No Perfect Participle,,,PST,Wrong
+creep,Present 3rd Singular,#kɹips#,#kɹip#,3SG-PRES,3SG-PRES,Right
+creep,Progressive,#kɹipɪŋ#,#kɹip#,PROG,PROG,Right
+creep,Past,#kɹɛpt#,#kɹip#,PST/ PST.PTCP,PST,Right
+creep,Perfect,#kɹɛpt#,#kɹip#,PST/ PST.PTCP,PST,Right
+cut,Present 3rd Singular,#kʌts#,#kʌt#,3SG-PRES,3SG-PRES,Right
+cut,Progressive,#kʌtɪŋ#,#kʌt#,PROG,PROG,Right
+cut,Past,#kʌt#,#kʌt#,PST/ PST.PTCP,PST,Right
+cut,Perfect,#kʌt#,#kʌt#,PST/ PST.PTCP,PST,Right
+deactivate,Present 3rd Singular,#diæktɪveɪts#,#diæktɪveɪt#,3SG-PRES,3SG-PRES,Right
+deactivate,Progressive,#diæktɪveɪtɪŋ#,#diæktɪveɪt#,PROG,PROG,Right
+deactivate,Past,#diæktɪveɪtɪd#,#diæktɪveɪt#,PST/ PST.PTCP,PST,Right
+deactivate,Perfect,#diæktɪveɪtɪd#,#diæktɪveɪt#,PST/ PST.PTCP,PST,Right
+deal,Present 3rd Singular,#dilz#,#dil#,3SG-PRES,3SG-PRES,Right
+deal,Progressive,#dilɪŋ#,#dil#,PROG,PROG,Right
+deal,Past,#dɛlt#,#dil#,PST/ PST.PTCP,PST,Right
+deal,Perfect,#dɛlt#,#dil#,PST/ PST.PTCP,PST,Right
+decorate,Present 3rd Singular,#dɛkəɹeɪts#,#dɛkəɹeɪt#,3SG-PRES,3SG-PRES,Right
+decorate,Progressive,#dɛkəɹeɪtɪŋ#,#dɛkəɹeɪt#,PROG,PROG,Right
+decorate,Past,#dɛkəɹeɪtɪd#,#dɛkəɹeɪt#,PST/ PST.PTCP,PST,Right
+decorate,Perfect,#dɛkəɹeɪtɪd#,#dɛkəɹeɪt#,PST/ PST.PTCP,PST,Right
+develop,Present 3rd Singular,#dɪvɛləps#,#dɪvɛləp#,3SG-PRES,3SG-PRES,Right
+develop,Progressive,#dɪvɛləpɪŋ#,#dɪvɛləp#,PROG,PROG,Right
+develop,Past,#dɪvɛləpt#,#dɪvɛləp#,PST/ PST.PTCP,PST,Right
+develop,Perfect,#dɪvɛləpt#,#dɪvɛləp#,PST/ PST.PTCP,PST,Right
+dig,Present 3rd Singular,#dɪgz#,#dɪg#,3SG-PRES,3SG-PRES,Right
+dig,Progressive,#dɪgɪŋ#,#dɪg#,PROG,PROG,Right
+dig,Past,#dʌg#,#dɪg#,PST/ PST.PTCP,PST,Right
+dig,Perfect,#dʌg#,#dɪg#,PST/ PST.PTCP,PST,Right
+dip,Present 3rd Singular,#dɪps#,#dɪp#,3SG-PRES,3SG-PRES,Right
+dip,Progressive,#dɪpɪŋ#,#dɪp#,PROG,PROG,Right
+dip,Past,#dɪpt#,#dɪp#,PST/ PST.PTCP,PST,Right
+dip,Perfect,#dɪpt#,#dɪp#,PST/ PST.PTCP,PST,Right
+disappear,Present 3rd Singular,#dɪsəpɪɹz#,#dɪsəpɪɹ#,3SG-PRES,3SG-PRES,Right
+disappear,Progressive,#dɪsəpɪɹɪŋ#,#dɪsəpɪɹ#,PROG,PROG,Right
+disappear,Past,#dɪsəpɪɹd#,#dɪsəpɪɹ#,PST/ PST.PTCP,PST,Right
+disappear,Perfect,#dɪsəpɪɹd#,#dɪsəpɪɹ#,PST/ PST.PTCP,PST,Right
+dive,Present 3rd Singular,#daɪvz#,#daɪv#,3SG-PRES,3SG-PRES,Right
+dive,Progressive,#daɪvɪŋ#,#daɪv#,PROG,PROG,Right
+dive,Past,#doʊv#,#daɪv#,PST,PST,Right
+dive,Perfect,#doʊv#,#daɪv#,PST,PST,Right
+do,Present 3rd Singular,#dʌz#,#du#,PRES,3SG-PRES,Wrong
+do,Progressive,#duɪŋ#,#du#,PROG,PROG,Right
+do,Past,#dɪd#,#du#,PST,PST,Right
+do,Perfect,#dʌn#,#du#,PST.PTCP,PST,Right
+draw,Present 3rd Singular,#dɹɔz#,#dɹɔ#,3SG-PRES,3SG-PRES,Right
+draw,Progressive,#dɹɔɪŋ#,#dɹɔ#,PROG,PROG,Right
+draw,Past,#dɹu#,#dɹɔ#,PST,PST,Right
+draw,Perfect,#dɹɔn#,#dɹɔ#,PST.PTCP,PST,Right
+dream,Present 3rd Singular,#dɹimz#,#dɹim#,3SG-PRES,3SG-PRES,Right
+dream,Progressive,#dɹimɪŋ#,#dɹim#,PROG,PROG,Right
+dream,Past,#dɹɛmt#,#dɹim#,PST/ PST.PTCP,PST,Right
+dream,Perfect,#dɹɛmt#,#dɹim#,PST/ PST.PTCP,PST,Right
+drink,Present 3rd Singular,#dɹɪŋks#,#dɹɪŋk#,3SG-PRES,3SG-PRES,Right
+drink,Progressive,#dɹɪŋkɪŋ#,#dɹɪŋk#,PROG,PROG,Right
+drink,Past,#dɹæŋk#,#dɹɪŋk#,PST,PST,Right
+drink,Perfect,#dɹʌŋk#,#dɹɪŋk#,PST.PTCP,PST,Right
+drive,Present 3rd Singular,#dɹaɪvz#,#dɹaɪv#,3SG-PRES,3SG-PRES,Right
+drive,Progressive,#dɹaɪvɪŋ#,#dɹaɪv#,PROG,PROG,Right
+drive,Past,#dɹoʊv#,#dɹaɪv#,PST,PST,Right
+drive,Perfect,#dɹɪvən#,#dɹaɪv#,PST.PTCP,PST,Right
+dwell,Present 3rd Singular,#dwɛlz#,#dwɛl#,3SG-PRES,3SG-PRES,Right
+dwell,Progressive,#dwɛlɪŋ#,#dwɛl#,PROG,PROG,Right
+dwell,Past,#dwɛld#,#dwɛl#,PST/ PST.PTCP,PST,Right
+dwell,Perfect,#dwɛld#,#dwɛl#,PST/ PST.PTCP,PST,Right
+earn,Present 3rd Singular,#ɝnz#,#ɝn#,3SG-PRES,3SG-PRES,Right
+earn,Progressive,#ɝnɪŋ#,#ɝn#,PROG,PROG,Right
+earn,Past,#ɝnd#,#ɝn#,PST/ PST.PTCP,PST,Right
+earn,Perfect,#ɝnd#,#ɝn#,PST/ PST.PTCP,PST,Right
+eat,Present 3rd Singular,#its#,#it#,3SG-PRES,3SG-PRES,Right
+eat,Progressive,#itɪŋ#,#it#,PROG,PROG,Right
+eat,Past,#eɪt#,#it#,PST,PST,Right
+eat,Perfect,#itən#,#it#,PST.PTCP,PST,Right
+eliminate,Present 3rd Singular,#ɪlɪməneɪts#,#ɪlɪməneɪt#,3SG-PRES,3SG-PRES,Right
+eliminate,Progressive,#ɪlɪməneɪtɪŋ#,#ɪlɪməneɪt#,PROG,PROG,Right
+eliminate,Past,#ɪlɪməneɪtɪd#,#ɪlɪməneɪt#,PST/ PST.PTCP,PST,Right
+eliminate,Perfect,#ɪlɪməneɪtɪd#,#ɪlɪməneɪt#,PST/ PST.PTCP,PST,Right
+embrace,Present 3rd Singular,#ɪmbɹeɪsɪz#,#ɪmbɹeɪs#,3SG-PRES,3SG-PRES,Right
+embrace,Progressive,#ɪmbɹeɪsɪŋ#,#ɪmbɹeɪs#,PROG,PROG,Right
+embrace,Past,#ɪmbɹeɪst#,#ɪmbɹeɪs#,PST/ PST.PTCP,PST,Right
+embrace,Perfect,#ɪmbɹeɪst#,#ɪmbɹeɪs#,PST/ PST.PTCP,PST,Right
+enjoy,Present 3rd Singular,#ɪnʤɔɪz#,#ɪnʤɔ#,3SG-PRES,3SG-PRES,Wrong
+enjoy,Progressive,#ɪnʤɔɪɪŋ#,#ɪnʤɔɪ#,PROG,PROG,Right
+enjoy,Past,#ɪnʤɔɪd#,#ɪnʤɔ#,PST/ PST.PTCP,PST,Wrong
+enjoy,Perfect,#ɪnʤɔɪd#,#ɪnʤɔ#,PST/ PST.PTCP,PST,Wrong
+evaporate,Present 3rd Singular,#ɪvæpəɹeɪts#,#ɪvæpəɹeɪt#,3SG-PRES,3SG-PRES,Right
+evaporate,Progressive,#ɪvæpəɹeɪtɪŋ#,#ɪvæpəɹeɪt#,PROG,PROG,Right
+evaporate,Past,#ɪvæpəɹeɪtɪd#,#ɪvæpəɹeɪt#,PST/ PST.PTCP,PST,Right
+evaporate,Perfect,#ɪvæpəɹeɪtɪd#,#ɪvæpəɹeɪt#,PST/ PST.PTCP,PST,Right
+face,Present 3rd Singular,#feɪsɪz#,#feɪs#,3SG-PRES,3SG-PRES,Right
+face,Progressive,#feɪsɪŋ#,#feɪs#,PROG,PROG,Right
+face,Past,#feɪst#,#feɪs#,PST/ PST.PTCP,PST,Right
+face,Perfect,#feɪst#,#feɪs#,PST/ PST.PTCP,PST,Right
+fall,Present 3rd Singular,#fɔlz#,#fɔl#,3SG-PRES,3SG-PRES,Right
+fall,Progressive,#fɔlɪŋ#,#fɔl#,PROG,PROG,Right
+fall,Past,#fɛl#,#fɔl#,PST,PST,Right
+fall,Perfect,#fɔlən#,#fɔl#,PST.PTCP,PST,Right
+feed,Present 3rd Singular,#fidz#,#fid#,3SG-PRES,3SG-PRES,Right
+feed,Progressive,#fidɪŋ#,#fid#,PROG,PROG,Right
+feed,Past,#fɛd#,#fid#,PST/ PST.PTCP,PST,Right
+feed,Perfect,#fɛd#,#fid#,PST/ PST.PTCP,PST,Right
+feel,Present 3rd Singular,#filz#,#fil#,3SG-PRES,3SG-PRES,Right
+feel,Progressive,#filɪŋ#,#fil#,PROG,PROG,Right
+feel,Past,#fɛlt#,#fil#,PST/ PST.PTCP,PST,Right
+feel,Perfect,#fɛlt#,#fil#,PST/ PST.PTCP,PST,Right
+fidget,Present 3rd Singular,#fɪdʒɪts#,#fɪdʒɪt#,3SG-PRES,3SG-PRES,Right
+fidget,Progressive,#fɪdʒɪtɪŋ#,#fɪdʒɪt#,PROG,PROG,Right
+fidget,Past,#fɪdʒɪtɪd#,#fɪdʒɪt#,PST/ PST.PTCP,PST,Right
+fidget,Perfect,#fɪdʒɪtɪd#,#fɪdʒɪt#,PST/ PST.PTCP,PST,Right
+fight,Present 3rd Singular,#faɪts#,#faɪt#,3SG-PRES,3SG-PRES,Right
+fight,Progressive,#faɪtɪŋ#,#faɪt#,PROG,PROG,Right
+fight,Past,#fɔt#,#faɪt#,PST/ PST.PTCP,PST,Right
+fight,Perfect,#fɔt#,#faɪt#,PST/ PST.PTCP,PST,Right
+find,Present 3rd Singular,#faɪndz#,#faɪnd#,3SG-PRES,3SG-PRES,Right
+find,Progressive,#faɪndɪŋ#,#faɪnd#,PROG,PROG,Right
+find,Past,#faʊnd#,#faɪnd#,PST/ PST.PTCP,PST,Right
+find,Perfect,#faʊnd#,#faɪnd#,PST/ PST.PTCP,PST,Right
+fit,Present 3rd Singular,#fɪts#,#fɪt#,3SG-PRES,3SG-PRES,Right
+fit,Progressive,#fɪtɪŋ#,#fɪt#,PROG,PROG,Right
+fit,Past,#fɪt#,#fɪt#,PST/ PST.PTCP,PST,Right
+fit,Perfect,#fɪt#,#fɪt#,PST/ PST.PTCP,PST,Right
+fix,Present 3rd Singular,#fɪksɪz#,#fɪks#,3SG-PRES,3SG-PRES,Right
+fix,Progressive,#fɪksɪŋ#,#fɪks#,PROG,PROG,Right
+fix,Past,#fɪkst#,#fɪks#,PST/ PST.PTCP,PST,Right
+fix,Perfect,#fɪkst#,#fɪks#,PST/ PST.PTCP,PST,Right
+flee,Present 3rd Singular,#fliz#,#fli#,3SG-PRES,3SG-PRES,Right
+flee,Progressive,#fliɪŋ#,#fli#,PROG,PROG,Right
+flee,Past,#flɛd#,#fli#,PST/ PST.PTCP,PST,Right
+flee,Perfect,#flɛd#,#fli#,PST/ PST.PTCP,PST,Right
+fling,Present 3rd Singular,#flɪŋz#,#flɪŋ#,3SG-PRES,3SG-PRES,Right
+fling,Progressive,#flɪŋɪŋ#,#flɪŋ#,PROG,PROG,Right
+fling,Past,#flʌŋ#,#flɪŋ#,PST/ PST.PTCP,PST,Right
+fling,Perfect,#flʌŋ#,#flɪŋ#,PST/ PST.PTCP,PST,Right
+flush,Present 3rd Singular,#flʌʃɪz#,#flʌʃ#,3SG-PRES,3SG-PRES,Right
+flush,Progressive,#flʌʃɪŋ#,#flʌʃ#,PROG,PROG,Right
+flush,Past,#flʌʃt#,#flʌʃ#,PST/ PST.PTCP,PST,Right
+flush,Perfect,#flʌʃt#,#flʌʃ#,PST/ PST.PTCP,PST,Right
+fly,Present 3rd Singular,#flaɪz#,#fla#,3SG-PRES,3SG-PRES,Wrong
+fly,Progressive,#flaɪɪŋ#,#flaɪ#,PROG,PROG,Right
+fly,Past,#flu#,#flaɪ#,PST,PST,Right
+fly,Perfect,#floʊn#,#flaɪ#,PST.PTCP,PST,Right
+forbid,Present 3rd Singular,#fəɹbɪdz#,#fəɹbɪd#,3SG-PRES,3SG-PRES,Right
+forbid,Progressive,#fəɹbɪdɪŋ#,#fəɹbɪd#,PROG,PROG,Right
+forbid,Past,#fəɹbeɪd#,#fəɹbɪd#,PST,PST,Right
+forbid,Perfect,#fəɹbɪdən#,#fəɹbɪd#,PST.PTCP,PST,Right
+forget,Present 3rd Singular,#fəɹgɛts#,#fəɹgɛt#,3SG-PRES,3SG-PRES,Right
+forget,Progressive,#fəɹgɛtɪŋ#,#fəɹgɛt#,PROG,PROG,Right
+forget,Past,#fəɹgɑt#,#fəɹgɛt#,PST,PST,Right
+forget,Perfect,#fəɹgɑtən#,#fəɹgɛt#,PST.PTCP,PST,Right
+forgive,Present 3rd Singular,#fəɹɡɪvs#,#fəɹɡɪv#,3SG-PRES,3SG-PRES,Right
+forgive,Progressive,#fəɹɡɪvɪŋ#,#fəɹɡɪv#,PROG,PROG,Right
+forgive,Past,#fəɹɡeɪv#,#fəɹɡeɪv#,BARE,PST,Wrong
+forgive,Perfect,#fəɹɡɪvən#,#fəɹɡɪvən#,BARE,PST,Wrong
+fray,Present 3rd Singular,#fɹeɪz#,#fɹe#,3SG-PRES,3SG-PRES,Wrong
+fray,Progressive,#fɹeɪŋ#,#fɹe#,PROG,PROG,Wrong
+fray,Past,#fɹeɪd#,#fɹe#,PST/ PST.PTCP,PST,Wrong
+fray,Perfect,#fɹeɪd#,#fɹe#,PST/ PST.PTCP,PST,Wrong
+freeze,Present 3rd Singular,#fɹizɪz#,#fɹiz#,3SG-PRES,3SG-PRES,Right
+freeze,Progressive,#fɹizɪŋ#,#fɹiz#,PROG,PROG,Right
+freeze,Past,#fɹoʊz#,#friz#,PST,PST,Wrong
+freeze,Perfect,#fɹoʊzən#,#friz#,PST.PTCP,PST,Wrong
+gain,Present 3rd Singular,#geɪnz#,#geɪn#,3SG-PRES,3SG-PRES,Right
+gain,Progressive,#geɪnɪŋ#,#geɪn#,PROG,PROG,Right
+gain,Past,#geɪnd#,#geɪn#,PST/ PST.PTCP,PST,Right
+gain,Perfect,#geɪnd#,#geɪn#,PST/ PST.PTCP,PST,Right
+gather,Present 3rd Singular,#ɡæðəɹz#,#ɡæðəɹ#,3SG-PRES,3SG-PRES,Right
+gather,Progressive,#ɡæðəɹɪŋ#,#ɡæðəɹ#,PROG,PROG,Right
+gather,Past,#ɡæðəɹd#,#ɡæðəɹ#,PST/ PST.PTCP,PST,Right
+gather,Perfect,#ɡæðəɹd#,#ɡæðəɹ#,PST/ PST.PTCP,PST,Right
+generate,Present 3rd Singular,#ʤɛnəɹeɪts#,#ʤɛnəɹeɪt#,3SG-PRES,3SG-PRES,Right
+generate,Progressive,#ʤɛnəɹeɪtɪŋ#,#ʤɛnəɹeɪt#,PROG,PROG,Right
+generate,Past,#ʤɛnəɹeɪtɪd#,#ʤɛnəɹeɪt#,PST/ PST.PTCP,PST,Right
+generate,Perfect,#ʤɛnəɹeɪtɪd#,#ʤɛnəɹeɪt#,PST/ PST.PTCP,PST,Right
+get,Present 3rd Singular,#ɡets#,#ɡet#,3SG-PRES,3SG-PRES,Right
+get,Progressive,#ɡetɪŋ#,#ɡet#,PROG,PROG,Right
+get,Past,#ɡɑt#,#ɡɑ#,PST/ PST.PTCP,PST,Wrong
+get,Perfect,#ɡɑtn#,#ɡɑtn#,BARE,PST,Wrong
+give,Present 3rd Singular,#ɡɪvs#,#ɡɪv#,3SG-PRES,3SG-PRES,Right
+give,Progressive,#ɡɪvɪŋ#,#ɡɪv#,PROG,PROG,Right
+give,Past,#ɡeɪv#,#ɡeɪv#,BARE,PST,Wrong
+give,Perfect,#ɡɪvən#,#ɡɪvən#,BARE,PST,Wrong
+go,Present 3rd Singular,#ɡoʊz#,#ɡoʊ#,3SG-PRES,3SG-PRES,Right
+go,Progressive,#ɡoʊɪŋ#,#ɡoʊ#,PROG,PROG,Right
+go,Past,#wɛnt#,#goʊ#,PST,PST,Wrong
+go,Perfect,#ɡɑn#,#ɡɑn#,BARE,PST,Wrong
+grab,Present 3rd Singular,#ɡɹæbz#,#ɡɹæb#,3SG-PRES,3SG-PRES,Right
+grab,Progressive,#ɡɹæbɪŋ#,#ɡɹæb#,PROG,PROG,Right
+grab,Past,#ɡɹæbd#,#ɡɹæb#,PST/ PST.PTCP,PST,Right
+grab,Perfect,#ɡɹæbd#,#ɡɹæb#,PST/ PST.PTCP,PST,Right
+grow,Present 3rd Singular,#ɡɹoʊz#,#ɡɹoʊ#,3SG-PRES,3SG-PRES,Right
+grow,Progressive,#ɡɹoʊɪŋ#,#ɡɹoʊ#,PROG,PROG,Right
+grow,Past,#ɡɹu#,#ɡɹu#,BARE,PST,Wrong
+grow,Perfect,#ɡɹoʊn#,#ɡɹoʊn#,BARE,PST,Wrong
+halt,Present 3rd Singular,#hɔlts#,#hɔlt#,3SG-PRES,3SG-PRES,Right
+halt,Progressive,#hɔltɪŋ#,#hɔlt#,PROG,PROG,Right
+halt,Past,#hɔltɪd#,#hɔlt#,PST/ PST.PTCP,PST,Right
+halt,Perfect,#hɔltɪd#,#hɔlt#,PST/ PST.PTCP,PST,Right
+hang,Present 3rd Singular,#hæŋz#,#hæŋ#,3SG-PRES,3SG-PRES,Right
+hang,Progressive,#hæŋɪŋ#,#hæŋ#,PROG,PROG,Right
+hang,Past,#hʌŋ#,#hæŋ#,PST/ PST.PTCP,PST,Right
+hang,Perfect,#hʌŋ#,#hæŋ#,PST/ PST.PTCP,PST,Right
+have,Present 3rd Singular,#hævz#,#hæv#,3SG-PRES,3SG-PRES,Wrong
+have,Progressive,#hævɪŋ#,#hæv#,PROG,PROG,Wrong
+have,Past,#hæd#,#hæv#,PST/ PST.PTCP,PST,Wrong
+have,Perfect,#hæd#,#hæv#,PST/ PST.PTCP,PST,Wrong
+heal,Present 3rd Singular,#hilz#,#hil#,3SG-PRES,3SG-PRES,Right
+heal,Progressive,#hilɪŋ#,#hil#,PROG,PROG,Right
+heal,Past,#hild#,#hil#,PST/ PST.PTCP,PST,Right
+heal,Perfect,#hild#,#hil#,PST/ PST.PTCP,PST,Right
+hear,Present 3rd Singular,#hɪɹz#,#hɪɹ#,3SG-PRES,3SG-PRES,Right
+hear,Progressive,#hɪɹɪŋ#,#hɪɹ#,PROG,PROG,Right
+hear,Past,#hɜɹd#,,,PST,Wrong
+hear,Perfect,#hɜɹd#,,,PST,Wrong
+help,Present 3rd Singular,#hɛlps#,#hɛlp#,3SG-PRES,3SG-PRES,Right
+help,Progressive,#hɛlpɪŋ#,#hɛlp#,PROG,PROG,Right
+help,Past,#hɛlpt#,#hɛlp#,PST/ PST.PTCP,PST,Right
+help,Perfect,#hɛlpt#,#hɛlp#,PST/ PST.PTCP,PST,Right
+hide,Present 3rd Singular,#haɪdz#,#haɪd#,3SG-PRES,3SG-PRES,Right
+hide,Progressive,#haɪdɪŋ#,#haɪd#,PROG,PROG,Right
+hide,Past,#hɪd#,#haɪd#,PST,PST,Right
+hide,Perfect,#hɪdən#,#haɪd#,PST.PTCP,PST,Right
+hint,Present 3rd Singular,#hɪnts#,#hɪnt#,3SG-PRES,3SG-PRES,Right
+hint,Progressive,#hɪntɪŋ#,#hɪnt#,PROG,PROG,Right
+hint,Past,#hɪntɪd#,#hɪnt#,PST/ PST.PTCP,PST,Right
+hint,Perfect,#hɪntɪd#,#hɪnt#,PST/ PST.PTCP,PST,Right
+hit,Present 3rd Singular,#hɪts#,#hɪt#,3SG-PRES,3SG-PRES,Right
+hit,Progressive,#hɪtɪŋ#,#hɪt#,PROG,PROG,Right
+hit,Past,#hɪt#,#hɪt#,PST/ PST.PTCP,PST,Right
+hit,Perfect,#hɪt#,#hɪt#,PST/ PST.PTCP,PST,Right
+hold,Present 3rd Singular,#hoʊldz#,#hoʊld#,3SG-PRES,3SG-PRES,Right
+hold,Progressive,#hoʊldɪŋ#,#hoʊld#,PROG,PROG,Right
+hold,Past,#hɛld#,#hoʊld#,PST/ PST.PTCP,PST,Right
+hold,Perfect,#hɛld#,#hoʊld#,PST/ PST.PTCP,PST,Right
+holler,Present 3rd Singular,#hɑləɹz#,#hɑləɹ#,3SG-PRES,3SG-PRES,Right
+holler,Progressive,#hɑləɹɪŋ#,#hɑləɹ#,PROG,PROG,Right
+holler,Past,#hɑləɹd#,#hɑləɹ#,PST/ PST.PTCP,PST,Right
+holler,Perfect,#hɑləɹd#,#hɑləɹ#,PST/ PST.PTCP,PST,Right
+host,Present 3rd Singular,#hoʊsts#,#hoʊst#,3SG-PRES,3SG-PRES,Right
+host,Progressive,#hoʊstɪŋ#,#hoʊst#,PROG,PROG,Right
+host,Past,#hoʊstɪd#,#hoʊst#,PST/ PST.PTCP,PST,Right
+host,Perfect,#hoʊstɪd#,#hoʊst#,PST/ PST.PTCP,PST,Right
+hurt,Present 3rd Singular,#hɜɹts#,,,3SG-PRES,Wrong
+hurt,Progressive,#hɜɹtɪŋ#,,,PROG,Wrong
+hurt,Past,#hɜɹt#,#hɜɹt#,PST/ PST.PTCP,PST,Right
+hurt,Perfect,#hɜɹt#,#hɜɹt#,PST/ PST.PTCP,PST,Right
+idealize,Present 3rd Singular,#aɪdiəlaɪzɪz#,#aɪdiəlaɪz#,3SG-PRES,3SG-PRES,Right
+idealize,Progressive,#aɪdiəlaɪzɪŋ#,#aɪdiəlaɪz#,PROG,PROG,Right
+idealize,Past,#aɪdiəlaɪzd#,#aɪdiəlaɪz#,PST/ PST.PTCP,PST,Right
+idealize,Perfect,#aɪdiəlaɪzd#,#aɪdiəlaɪz#,PST/ PST.PTCP,PST,Right
+identify,Present 3rd Singular,#aɪdɛntɪfaɪz#,#aɪdɛntɪfa#,3SG-PRES,3SG-PRES,Wrong
+identify,Progressive,#aɪdɛntɪfaɪŋ#,#aɪdɛntɪfa#,PROG,PROG,Wrong
+identify,Past,#aɪdɛntɪfaɪd#,#aɪdɛntɪfa#,PST/ PST.PTCP,PST,Wrong
+identify,Perfect,#aɪdɛntɪfaɪd#,#aɪdɛntɪfa#,PST/ PST.PTCP,PST,Wrong
+ignore,Present 3rd Singular,#ɪɡnɔɹz#,#ɪɡnɔɹ#,3SG-PRES,3SG-PRES,Right
+ignore,Progressive,#ɪɡnɔɹɪŋ#,#ɪɡnɔɹ#,PROG,PROG,Right
+ignore,Past,#ɪɡnɔɹd#,#ɪɡnɔɹ#,PST/ PST.PTCP,PST,Right
+ignore,Perfect,#ɪɡnɔɹd#,#ɪɡnɔɹ#,PST/ PST.PTCP,PST,Right
+improve,Present 3rd Singular,#ɪmpɹuvz#,#ɪmpɹuv#,3SG-PRES,3SG-PRES,Right
+improve,Progressive,#ɪmpɹuvɪŋ#,#ɪmpɹuv#,PROG,PROG,Right
+improve,Past,#ɪmpɹuvd#,#ɪmpɹuv#,PST/ PST.PTCP,PST,Right
+improve,Perfect,#ɪmpɹuvd#,#ɪmpɹuv#,PST/ PST.PTCP,PST,Right
+index,Present 3rd Singular,#ɪndɛksɪz#,#ɪndɛks#,3SG-PRES,3SG-PRES,Right
+index,Progressive,#ɪndɛksɪŋ#,#ɪndɛks#,PROG,PROG,Right
+index,Past,#ɪndɛkst#,#ɪndɛks#,PST/ PST.PTCP,PST,Right
+index,Perfect,#ɪndɛkst#,#ɪndɛks#,PST/ PST.PTCP,PST,Right
+invite,Present 3rd Singular,#ɪnvaɪts#,#ɪnvaɪt#,3SG-PRES,3SG-PRES,Right
+invite,Progressive,#ɪnvaɪtɪŋ#,#ɪnvaɪt#,PROG,PROG,Right
+invite,Past,#ɪnvaɪtɪd#,#ɪnvaɪt#,PST/ PST.PTCP,PST,Right
+invite,Perfect,#ɪnvaɪtɪd#,#ɪnvaɪt#,PST/ PST.PTCP,PST,Right
+iron,Present 3rd Singular,#aɪəɹnz#,#aɪəɹn#,3SG-PRES,3SG-PRES,Right
+iron,Progressive,#aɪəɹnɪŋ#,#aɪəɹn#,PROG,PROG,Right
+iron,Past,#aɪəɹnd#,#aɪəɹn#,PST/ PST.PTCP,PST,Right
+iron,Perfect,#aɪəɹnd#,#aɪəɹn#,PST/ PST.PTCP,PST,Right
+jog,Present 3rd Singular,#ʤɑɡz#,#ʤɑɡ#,3SG-PRES,3SG-PRES,Right
+jog,Progressive,#ʤɑɡɪŋ#,#ʤɑɡ#,PROG,PROG,Right
+jog,Past,#ʤɑɡd#,#ʤɑɡ#,PST/ PST.PTCP,PST,Right
+jog,Perfect,#ʤɑɡd#,#ʤɑɡ#,PST/ PST.PTCP,PST,Right
+join,Present 3rd Singular,#ʤɔɪnz#,#ʤɔɪn#,3SG-PRES,3SG-PRES,Right
+join,Progressive,#ʤɔɪnɪŋ#,#ʤɔɪn#,PROG,PROG,Right
+join,Past,#ʤɔɪnd#,#ʤɔɪn#,PST/ PST.PTCP,PST,Right
+join,Perfect,#ʤɔɪnd#,#ʤɔɪn#,PST/ PST.PTCP,PST,Right
+jot,Present 3rd Singular,#ʤɑts#,#ʤɑt#,3SG-PRES,3SG-PRES,Right
+jot,Progressive,#ʤɑtɪŋ#,#ʤɑt#,PROG,PROG,Right
+jot,Past,#ʤɑtɪd#,#ʤɑt#,PST/ PST.PTCP,PST,Right
+jot,Perfect,#ʤɑtɪd#,#ʤɑt#,PST/ PST.PTCP,PST,Right
+juice,Present 3rd Singular,#ʤusɪz#,#ʤus#,3SG-PRES,3SG-PRES,Right
+juice,Progressive,#ʤusɪŋ#,#ʤus#,PROG,PROG,Right
+juice,Past,#ʤust#,#ʤus#,PST/ PST.PTCP,PST,Right
+juice,Perfect,#ʤust#,#ʤus#,PST/ PST.PTCP,PST,Right
+justify,Present 3rd Singular,#ʤʌstɪfaɪz#,#ʤʌstɪfa#,3SG-PRES,3SG-PRES,Wrong
+justify,Progressive,#ʤʌstɪfaɪɪŋ#,#ʤʌstɪfaɪ#,PROG,PROG,Right
+justify,Past,#ʤʌstɪfaɪd#,#ʤʌstɪfa#,PST/ PST.PTCP,PST,Wrong
+justify,Perfect,#ʤʌstɪfaɪd#,#ʤʌstɪfa#,PST/ PST.PTCP,PST,Wrong
+keep,Present 3rd Singular,#kips#,#kip#,3SG-PRES,3SG-PRES,Right
+keep,Progressive,#kipɪŋ#,#kip#,PROG,PROG,Right
+keep,Past,#kɛpt#,#kip#,PST/ PST.PTCP,PST,Right
+keep,Perfect,#kɛpt#,#kip#,PST/ PST.PTCP,PST,Right
+kick,Present 3rd Singular,#kɪks#,#kɪk#,3SG-PRES,3SG-PRES,Right
+kick,Progressive,#kɪkɪŋ#,#kɪk#,PROG,PROG,Right
+kick,Past,#kɪkt#,#kɪk#,PST/ PST.PTCP,PST,Right
+kick,Perfect,#kɪkt#,#kɪk#,PST/ PST.PTCP,PST,Right
+kiss,Present 3rd Singular,#kɪsɪz#,#kɪs#,3SG-PRES,3SG-PRES,Right
+kiss,Progressive,#kɪsɪŋ#,#kɪs#,PROG,PROG,Right
+kiss,Past,#kɪst#,#kɪs#,PST/ PST.PTCP,PST,Right
+kiss,Perfect,#kɪst#,#kɪs#,PST/ PST.PTCP,PST,Right
+know,Present 3rd Singular,#noʊz#,#noʊ#,3SG-PRES,3SG-PRES,Right
+know,Progressive,#noʊɪŋ#,#noʊ#,PROG,PROG,Right
+know,Past,#nu#,#noʊ#,PST,PST,Right
+know,Perfect,#noʊn#,#noʊ#,PST.PTCP,PST,Right
+label,Present 3rd Singular,#leɪbəlz#,#leɪbəl#,3SG-PRES,3SG-PRES,Right
+label,Progressive,#leɪbəlɪŋ#,#leɪbəl#,PROG,PROG,Right
+label,Past,#leɪbəld#,#leɪbəl#,PST/ PST.PTCP,PST,Right
+label,Perfect,#leɪbəld#,#leɪbəl#,PST/ PST.PTCP,PST,Right
+lag,Present 3rd Singular,#læɡz#,#læɡ#,3SG-PRES,3SG-PRES,Right
+lag,Progressive,#læɡɪŋ#,#læɡ#,PROG,PROG,Right
+lag,Past,#læɡd#,#læɡ#,PST/ PST.PTCP,PST,Right
+lag,Perfect,#læɡd#,#læɡ#,PST/ PST.PTCP,PST,Right
+land,Present 3rd Singular,#lændz#,#lænd#,3SG-PRES,3SG-PRES,Right
+land,Progressive,#lændɪŋ#,#lænd#,PROG,PROG,Right
+land,Past,#lændɪd#,#lænd#,PST/ PST.PTCP,PST,Right
+land,Perfect,#lændɪd#,#lænd#,PST/ PST.PTCP,PST,Right
+last,Present 3rd Singular,#læsts#,#læst#,3SG-PRES,3SG-PRES,Right
+last,Progressive,#læstɪŋ#,#læst#,PROG,PROG,Right
+last,Past,#læstɪd#,#læst#,PST/ PST.PTCP,PST,Right
+last,Perfect,#læstɪd#,#læst#,PST/ PST.PTCP,PST,Right
+lay,Present 3rd Singular,#leɪz#,#le#,3SG-PRES,3SG-PRES,Wrong
+lay,Progressive,#leɪɪŋ#,#leɪ#,PROG,PROG,Right
+lay,Past,#leɪd#,#le#,PST/ PST.PTCP,PST,Wrong
+lay,Perfect,#leɪd#,#le#,PST/ PST.PTCP,PST,Wrong
+lead,Present 3rd Singular,#lidz#,#lid#,3SG-PRES,3SG-PRES,Right
+lead,Progressive,#lidɪŋ#,#lid#,PROG,PROG,Right
+lead,Past,#lɛd#,#lid#,PST.PTCP,PST,Right
+lead,Perfect,#lɛd#,#lid#,PST.PTCP,PST,Right
+lean,Present 3rd Singular,#linz#,#lin#,3SG-PRES,3SG-PRES,Right
+lean,Progressive,#linɪŋ#,#lin#,PROG,PROG,Right
+lean,Past,#lind#,#lin#,PST/ PST.PTCP,PST,Right
+lean,Perfect,#lind#,#lin#,PST/ PST.PTCP,PST,Right
+leave,Present 3rd Singular,#livz#,#liv#,3SG-PRES,3SG-PRES,Right
+leave,Progressive,#livɪŋ#,#liv#,PROG,PROG,Right
+leave,Past,#lɛft#,#liv#,PST/ PST.PTCP,PST,Right
+leave,Perfect,#lɛft#,#liv#,PST/ PST.PTCP,PST,Right
+lend,Present 3rd Singular,#lɛndz#,#lɛnd#,3SG-PRES,3SG-PRES,Right
+lend,Progressive,#lɛndɪŋ#,#lɛnd#,PROG,PROG,Right
+lend,Past,#lɛnt#,#lɛnd#,PST/ PST.PTCP,PST,Right
+lend,Perfect,#lɛnt#,#lɛnd#,PST/ PST.PTCP,PST,Right
+let,Present 3rd Singular,#lɛts#,#lɛt#,3SG-PRES,3SG-PRES,Right
+let,Progressive,#lɛtɪŋ#,#lɛt#,PROG,PROG,Right
+let,Past,#lɛt#,#lɛt#,PST/ PST.PTCP,PST,Right
+let,Perfect,#lɛt#,#lɛt#,PST/ PST.PTCP,PST,Right
+lie,Present 3rd Singular,#laɪz#,#la#,3SG-PRES,3SG-PRES,Wrong
+lie,Progressive,#laɪɪŋ#,#laɪ#,PROG,PROG,Right
+lie,Past,#laɪd#,#la#,PST/ PST.PTCP,PST,Wrong
+lie,Perfect,#laɪd#,#la#,PST/ PST.PTCP,PST,Wrong
+lift,Present 3rd Singular,#lɪfts#,#lɪft#,3SG-PRES,3SG-PRES,Right
+lift,Progressive,#lɪftɪŋ#,#lɪft#,PROG,PROG,Right
+lift,Past,#lɪftɪd#,#lɪft#,PST/ PST.PTCP,PST,Right
+lift,Perfect,#lɪftɪd#,#lɪft#,PST/ PST.PTCP,PST,Right
+light,Present 3rd Singular,#laɪts#,#laɪt#,3SG-PRES,3SG-PRES,Right
+light,Progressive,#laɪtɪŋ#,#laɪt#,PROG,PROG,Right
+light,Past,#lɪt#,#laɪt#,PST/ PST.PTCP,PST,Right
+light,Perfect,#lɪt#,#laɪt#,PST/ PST.PTCP,PST,Right
+listen,Present 3rd Singular,#lɪsənz#,#lɪsən#,3SG-PRES,3SG-PRES,Right
+listen,Progressive,#lɪsənɪŋ#,#lɪsən#,PROG,PROG,Right
+listen,Past,#lɪsənd#,#lɪsən#,PST/ PST.PTCP,PST,Right
+listen,Perfect,#lɪsənd#,#lɪsən#,PST/ PST.PTCP,PST,Right
+lose,Present 3rd Singular,#luzɪz#,#luz#,3SG-PRES,3SG-PRES,Right
+lose,Progressive,#luzɪŋ#,#luz#,PROG,PROG,Right
+lose,Past,#lɔst#,#luz#,PST/ PST.PTCP,PST,Right
+lose,Perfect,#lɔst#,#luz#,PST/ PST.PTCP,PST,Right
+mail,Present 3rd Singular,#meɪlz#,#meɪl#,3SG-PRES,3SG-PRES,Right
+mail,Progressive,#meɪlɪŋ#,#meɪl#,PROG,PROG,Right
+mail,Past,#meɪld#,#meɪl#,PST/ PST.PTCP,PST,Right
+mail,Perfect,#meɪld#,#meɪl#,PST/ PST.PTCP,PST,Right
+make,Present 3rd Singular,#meɪks#,#meɪk#,3SG-PRES,3SG-PRES,Right
+make,Progressive,#meɪkɪŋ#,#meɪk#,PROG,PROG,Right
+make,Past,#meɪd#,#meɪk#,PST/ PST.PTCP,PST,Right
+make,Perfect,#meɪd#,#meɪk#,PST/ PST.PTCP,PST,Right
+manipulate,Present 3rd Singular,#mənɪpjəleɪts#,#mənɪpjəleɪt#,3SG-PRES,3SG-PRES,Right
+manipulate,Progressive,#mənɪpjəleɪtɪŋ#,#mənɪpjəleɪt#,PROG,PROG,Right
+manipulate,Past,#mənɪpjəleɪtɪd#,#mənɪpjəleɪt#,PST/ PST.PTCP,PST,Right
+manipulate,Perfect,#mənɪpjəleɪtɪd#,#mənɪpjəleɪt#,PST/ PST.PTCP,PST,Right
+map,Present 3rd Singular,#mæps#,#mæp#,3SG-PRES,3SG-PRES,Right
+map,Progressive,#mæpɪŋ#,#mæp#,PROG,PROG,Right
+map,Past,#mæpt#,#mæp#,PST/ PST.PTCP,PST,Right
+map,Perfect,#mæpt#,#mæp#,PST/ PST.PTCP,PST,Right
+may,Present 3rd Singular,#meɪ#,,,3SG-PRES,Wrong
+may,Progressive,No Progressive,,,PROG,Wrong
+may,Past,#maɪt#,#maɪ#,PST/ PST.PTCP,PST,Wrong
+may,Perfect,No Perfect Participle,,,PST,Wrong
+mean,Present 3rd Singular,#minz#,#min#,3SG-PRES,3SG-PRES,Right
+mean,Progressive,#minɪŋ#,#min#,PROG,PROG,Right
+mean,Past,#mɛnt#,#min#,PST/ PST.PTCP,PST,Right
+mean,Perfect,#mɛnt#,#min#,PST/ PST.PTCP,PST,Right
+meet,Present 3rd Singular,#mits#,#mit#,3SG-PRES,3SG-PRES,Right
+meet,Progressive,#mitɪŋ#,#mit#,PROG,PROG,Right
+meet,Past,#mɛt#,#mit#,PST/ PST.PTCP,PST,Right
+meet,Perfect,#mɛt#,#mit#,PST/ PST.PTCP,PST,Right
+mess,Present 3rd Singular,#mɛsɪz#,#mɛs#,3SG-PRES,3SG-PRES,Right
+mess,Progressive,#mɛsɪŋ#,#mɛs#,PROG,PROG,Right
+mess,Past,#mɛst#,#mɛs#,PST/ PST.PTCP,PST,Right
+mess,Perfect,#mɛst#,#mɛs#,PST/ PST.PTCP,PST,Right
+might,Present 3rd Singular,#maɪt#,#maɪ#,PST/ PST.PTCP,3SG-PRES,Wrong
+might,Progressive,No Progressive,,,PROG,Wrong
+might,Past,#maɪt#,#maɪ#,PST/ PST.PTCP,PST,Wrong
+might,Perfect,No Perfect Participle,,,PST,Wrong
+mock,Present 3rd Singular,#mɑks#,#mɑk#,3SG-PRES,3SG-PRES,Right
+mock,Progressive,#mɑkɪŋ#,#mɑk#,PROG,PROG,Right
+mock,Past,#mɑkt#,#mɑk#,PST/ PST.PTCP,PST,Right
+mock,Perfect,#mɑkt#,#mɑk#,PST/ PST.PTCP,PST,Right
+must,Present 3rd Singular,#mʌst#,#mʌs#,PST/ PST.PTCP,3SG-PRES,Wrong
+must,Progressive,No Progressive,,,PROG,Wrong
+must,Past,No Past Tense,,,PST,Wrong
+must,Perfect,No Perfect Participle,,,PST,Wrong
+nag,Present 3rd Singular,#næɡz#,#næɡ#,3SG-PRES,3SG-PRES,Right
+nag,Progressive,#næɡɪŋ#,#næɡ#,PROG,PROG,Right
+nag,Past,#næɡd#,#næɡ#,PST/ PST.PTCP,PST,Right
+nag,Perfect,#næɡd#,#næɡ#,PST/ PST.PTCP,PST,Right
+need,Present 3rd Singular,#nidz#,#nid#,3SG-PRES,3SG-PRES,Right
+need,Progressive,#nidɪŋ#,#nid#,PROG,PROG,Right
+need,Past,#nidɪd#,#nid#,PST/ PST.PTCP,PST,Right
+need,Perfect,#nidɪd#,#nid#,PST/ PST.PTCP,PST,Right
+negate,Present 3rd Singular,#nɪɡeɪts#,#nɪɡeɪt#,3SG-PRES,3SG-PRES,Right
+negate,Progressive,#nɪɡeɪtɪŋ#,#nɪɡeɪt#,PROG,PROG,Right
+negate,Past,#nɪɡeɪtɪd#,#nɪɡeɪt#,PST/ PST.PTCP,PST,Right
+negate,Perfect,#nɪɡeɪtɪd#,#nɪɡeɪt#,PST/ PST.PTCP,PST,Right
+nest,Present 3rd Singular,#nɛsts#,#nɛst#,3SG-PRES,3SG-PRES,Right
+nest,Progressive,#nɛstɪŋ#,#nɛst#,PROG,PROG,Right
+nest,Past,#nɛstɪd#,#nɛst#,PST/ PST.PTCP,PST,Right
+nest,Perfect,#nɛstɪd#,#nɛst#,PST/ PST.PTCP,PST,Right
+obtain,Present 3rd Singular,#əbteɪnz#,#əbteɪn#,3SG-PRES,3SG-PRES,Right
+obtain,Progressive,#əbteɪnɪŋ#,#əbteɪn#,PROG,PROG,Right
+obtain,Past,#əbteɪnd#,#əbteɪn#,PST/ PST.PTCP,PST,Right
+obtain,Perfect,#əbteɪnd#,#əbteɪn#,PST/ PST.PTCP,PST,Right
+open,Present 3rd Singular,#oʊpənz#,#oʊpən#,3SG-PRES,3SG-PRES,Right
+open,Progressive,#oʊpənɪŋ#,#oʊpən#,PROG,PROG,Right
+open,Past,#oʊpənd#,#oʊpən#,PST/ PST.PTCP,PST,Right
+open,Perfect,#oʊpənd#,#oʊpən#,PST/ PST.PTCP,PST,Right
+oppose,Present 3rd Singular,#əpoʊzɪz#,#əpoʊz#,3SG-PRES,3SG-PRES,Right
+oppose,Progressive,#əpoʊzɪŋ#,#əpoʊz#,PROG,PROG,Right
+oppose,Past,#əpoʊzd#,#əpoʊz#,PST/ PST.PTCP,PST,Right
+oppose,Perfect,#əpoʊzd#,#əpoʊz#,PST/ PST.PTCP,PST,Right
+pace,Present 3rd Singular,#peɪsɪz#,#peɪs#,3SG-PRES,3SG-PRES,Right
+pace,Progressive,#peɪsɪŋ#,#peɪs#,PROG,PROG,Right
+pace,Past,#peɪst#,#peɪs#,PST/ PST.PTCP,PST,Right
+pace,Perfect,#peɪst#,#peɪs#,PST/ PST.PTCP,PST,Right
+pack,Present 3rd Singular,#pæks#,#pæk#,3SG-PRES,3SG-PRES,Right
+pack,Progressive,#pækɪŋ#,#pæk#,PROG,PROG,Right
+pack,Past,#pækt#,#pæk#,PST/ PST.PTCP,PST,Right
+pack,Perfect,#pækt#,#pæk#,PST/ PST.PTCP,PST,Right
+pay,Present 3rd Singular,#peɪz#,#pe#,3SG-PRES,3SG-PRES,Wrong
+pay,Progressive,#peɪɪŋ#,#peɪ#,PROG,PROG,Right
+pay,Past,#peɪd#,#pe#,PST/ PST.PTCP,PST,Wrong
+pay,Perfect,#peɪd#,#pe#,PST/ PST.PTCP,PST,Wrong
+peek,Present 3rd Singular,#piks#,#pik#,3SG-PRES,3SG-PRES,Right
+peek,Progressive,#pikɪŋ#,#pik#,PROG,PROG,Right
+peek,Past,#pikt#,#pik#,PST/ PST.PTCP,PST,Right
+peek,Perfect,#pikt#,#pik#,PST/ PST.PTCP,PST,Right
+perfect,Present 3rd Singular,#pɝfɛkts#,#pɝfɛkt#,3SG-PRES,3SG-PRES,Right
+perfect,Progressive,#pɝfɛktɪŋ#,#pɝfɛkt#,PROG,PROG,Right
+perfect,Past,#pɝfɛktɪd#,#pɝfɛkt#,PST/ PST.PTCP,PST,Right
+perfect,Perfect,#pɝfɛktɪd#,#pɝfɛkt#,PST/ PST.PTCP,PST,Right
+predict,Present 3rd Singular,#pɹɪdɪkts#,#pɹɪdɪkt#,3SG-PRES,3SG-PRES,Right
+predict,Progressive,#pɹɪdɪktɪŋ#,#pɹɪdɪkt#,PROG,PROG,Right
+predict,Past,#pɹɪdɪktɪd#,#pɹɪdɪkt#,PST/ PST.PTCP,PST,Right
+predict,Perfect,#pɹɪdɪktɪd#,#pɹɪdɪkt#,PST/ PST.PTCP,PST,Right
+put,Present 3rd Singular,#pʊts#,#pʊt#,3SG-PRES,3SG-PRES,Right
+put,Progressive,#pʊtɪŋ#,#pʊt#,PROG,PROG,Right
+put,Past,#pʊt#,#pʊt#,PST/ PST.PTCP,PST,Right
+put,Perfect,#pʊt#,#pʊt#,PST/ PST.PTCP,PST,Right
+quack,Present 3rd Singular,#kwæks#,#kwæk#,3SG-PRES,3SG-PRES,Right
+quack,Progressive,#kwækɪŋ#,#kwæk#,PROG,PROG,Right
+quack,Past,#kwækt#,#kwæk#,PST/ PST.PTCP,PST,Right
+quack,Perfect,#kwækt#,#kwæk#,PST/ PST.PTCP,PST,Right
+race,Present 3rd Singular,#ɹeɪsɪz#,#ɹeɪs#,3SG-PRES,3SG-PRES,Right
+race,Progressive,#ɹeɪsɪŋ#,#ɹeɪs#,PROG,PROG,Right
+race,Past,#ɹeɪst#,#ɹeɪs#,PST/ PST.PTCP,PST,Right
+race,Perfect,#ɹeɪst#,#ɹeɪs#,PST/ PST.PTCP,PST,Right
+react,Present 3rd Singular,#ɹiækts#,#ɹiækt#,3SG-PRES,3SG-PRES,Right
+react,Progressive,#ɹiæktɪŋ#,#ɹiækt#,PROG,PROG,Right
+react,Past,#ɹiæktɪd#,#ɹiækt#,PST/ PST.PTCP,PST,Right
+react,Perfect,#ɹiæktɪd#,#ɹiækt#,PST/ PST.PTCP,PST,Right
+read,Present 3rd Singular,#ɹidz#,#ɹid#,3SG-PRES,3SG-PRES,Right
+read,Progressive,#ɹidɪŋ#,#ɹid#,PROG,PROG,Right
+read,Past,#ɹɛd#,#ɹid#,PST/ PST.PTCP,PST,Right
+read,Perfect,#ɹɛd#,#ɹid#,PST/ PST.PTCP,PST,Right
+ride,Present 3rd Singular,#ɹaɪdz#,#ɹaɪd#,3SG-PRES,3SG-PRES,Right
+ride,Progressive,#ɹaɪdɪŋ#,#ɹaɪd#,PROG,PROG,Right
+ride,Past,#ɹoʊd#,#ɹaɪd#,PST,PST,Right
+ride,Perfect,#ɹɪdən#,#ɹaɪd#,PST.PTCP,PST,Right
+ring,Present 3rd Singular,#ɹɪŋz#,#ɹɪŋ#,3SG-PRES,3SG-PRES,Right
+ring,Progressive,#ɹɪŋɪŋ#,#ɹɪŋ#,PROG,PROG,Right
+ring,Past,#ɹæŋ#,#ɹɪŋ#,PST,PST,Right
+ring,Perfect,#ɹʌŋ#,#ɹɪŋ#,PST.PTCP,PST,Right
+rise,Present 3rd Singular,#ɹaɪzɪz#,#ɹaɪz#,3SG-PRES,3SG-PRES,Right
+rise,Progressive,#ɹaɪzɪŋ#,#ɹaɪz#,PROG,PROG,Right
+rise,Past,#ɹoʊz#,#ɹaɪz#,PST,PST,Right
+rise,Perfect,#ɹɪzən#,#ɹaɪz#,PST.PTCP,PST,Right
+run,Present 3rd Singular,#ɹʌnz#,#ɹʌn#,3SG-PRES,3SG-PRES,Right
+run,Progressive,#ɹʌnɪŋ#,#ɹʌn#,PROG,PROG,Right
+run,Past,#ɹæn#,#ɹʌn#,PST,PST,Right
+run,Perfect,#ɹʌn#,#ɹʌn#,PST.PTCP,PST,Right
+save,Present 3rd Singular,#seɪvz#,#seɪv#,3SG-PRES,3SG-PRES,Right
+save,Progressive,#seɪvɪŋ#,#seɪv#,PROG,PROG,Right
+save,Past,#seɪvd#,#seɪv#,PST/ PST.PTCP,PST,Right
+save,Perfect,#seɪvd#,#seɪv#,PST/ PST.PTCP,PST,Right
+say,Present 3rd Singular,#sɛz#,#seɪ#,PRES,3SG-PRES,Wrong
+say,Progressive,#seɪɪŋ#,#seɪ#,PROG,PROG,Right
+say,Past,#sɛd#,#seɪ#,PST/ PST.PTCP,PST,Right
+say,Perfect,#sɛd#,#seɪ#,PST/ PST.PTCP,PST,Right
+scan,Present 3rd Singular,#skænz#,#skæn#,3SG-PRES,3SG-PRES,Right
+scan,Progressive,#skænɪŋ#,#skæn#,PROG,PROG,Right
+scan,Past,#skænd#,#skæn#,PST/ PST.PTCP,PST,Right
+scan,Perfect,#skænd#,#skæn#,PST/ PST.PTCP,PST,Right
+seat,Present 3rd Singular,#sits#,#sit#,3SG-PRES,3SG-PRES,Right
+seat,Progressive,#sitɪŋ#,#sit#,PROG,PROG,Right
+seat,Past,#sitɪd#,#sit#,PST/ PST.PTCP,PST,Right
+seat,Perfect,#sitɪd#,#sit#,PST/ PST.PTCP,PST,Right
+see,Present 3rd Singular,#siz#,#si#,3SG-PRES,3SG-PRES,Right
+see,Progressive,#siɪŋ#,#si#,PROG,PROG,Right
+see,Past,#sɔ#,#si#,PST,PST,Right
+see,Perfect,#sin#,#si#,PST.PTCP,PST,Right
+sell,Present 3rd Singular,#sɛlz#,#sɛl#,3SG-PRES,3SG-PRES,Right
+sell,Progressive,#sɛlɪŋ#,#sɛl#,PROG,PROG,Right
+sell,Past,#soʊld#,#sɛl#,PST/ PST.PTCP,PST,Right
+sell,Perfect,#soʊld#,#sɛl#,PST/ PST.PTCP,PST,Right
+send,Present 3rd Singular,#sɛndz#,#sɛnd#,3SG-PRES,3SG-PRES,Right
+send,Progressive,#sɛndɪŋ#,#sɛnd#,PROG,PROG,Right
+send,Past,#sɛnt#,#sɛnd#,PST/ PST.PTCP,PST,Right
+send,Perfect,#sɛnt#,#sɛnd#,PST/ PST.PTCP,PST,Right
+set,Present 3rd Singular,#sɛts#,#sɛt#,3SG-PRES,3SG-PRES,Right
+set,Progressive,#sɛtɪŋ#,#sɛt#,PROG,PROG,Right
+set,Past,#sɛt#,#sɛt#,PST/ PST.PTCP,PST,Right
+set,Perfect,#sɛt#,#sɛt#,PST/ PST.PTCP,PST,Right
+shall,Present 3rd Singular,#ʃæl#,#ʃæl#,BARE,3SG-PRES,Wrong
+shall,Progressive,No Progressive,,,PROG,Wrong
+shall,Past,#ʃʊd#,#ʃʊ#,PST/ PST.PTCP,PST,Wrong
+shall,Perfect,No Perfect Participle,,,PST,Wrong
+shine,Present 3rd Singular,#ʃaɪnz#,#ʃaɪn#,3SG-PRES,3SG-PRES,Right
+shine,Progressive,#ʃaɪnɪŋ#,#ʃaɪn#,PROG,PROG,Right
+shine,Past,#ʃoʊn#,#ʃoʊ#,PST.PTCP,PST,Wrong
+shine,Perfect,#ʃoʊn#,#ʃoʊ#,PST.PTCP,PST,Wrong
+shoot,Present 3rd Singular,#ʃuts#,#ʃut#,3SG-PRES,3SG-PRES,Right
+shoot,Progressive,#ʃutɪŋ#,#ʃut#,PROG,PROG,Right
+shoot,Past,#ʃɑt#,#ʃut#,PST/ PST.PTCP,PST,Right
+shoot,Perfect,#ʃɑt#,#ʃut#,PST/ PST.PTCP,PST,Right
+should,Present 3rd Singular,#ʃʊd#,#ʃʊ#,PST/ PST.PTCP,3SG-PRES,Wrong
+should,Progressive,No Progressive,,,PROG,Wrong
+should,Past,#ʃʊd#,#ʃʊ#,PST/ PST.PTCP,PST,Wrong
+should,Perfect,No Perfect Participle,,,PST,Wrong
+show,Present 3rd Singular,#ʃoʊz#,#ʃoʊ#,3SG-PRES,3SG-PRES,Right
+show,Progressive,#ʃoʊɪŋ#,#ʃoʊ#,PROG,PROG,Right
+show,Past,#ʃoʊd#,#ʃoʊ#,PST/ PST.PTCP,PST,Right
+show,Perfect,#ʃoʊd#,#ʃoʊ#,PST/ PST.PTCP,PST,Right
+shut,Present 3rd Singular,#ʃʌts#,#ʃʌt#,3SG-PRES,3SG-PRES,Right
+shut,Progressive,#ʃʌtɪŋ#,#ʃʌt#,PROG,PROG,Right
+shut,Past,#ʃʌt#,#ʃʌt#,PST/ PST.PTCP,PST,Right
+shut,Perfect,#ʃʌt#,#ʃʌt#,PST/ PST.PTCP,PST,Right
+sing,Present 3rd Singular,#sɪŋz#,#sɪŋ#,3SG-PRES,3SG-PRES,Right
+sing,Progressive,#sɪŋɪŋ#,#sɪŋ#,PROG,PROG,Right
+sing,Past,#sæŋ#,#sɪŋ#,PST,PST,Right
+sing,Perfect,#sʌŋ#,#sɪŋ#,PST.PTCP,PST,Right
+sit,Present 3rd Singular,#sɪts#,#sɪt#,3SG-PRES,3SG-PRES,Right
+sit,Progressive,#sɪtɪŋ#,#sɪt#,PROG,PROG,Right
+sit,Past,#sæt#,#sɪt#,PST/ PST.PTCP,PST,Right
+sit,Perfect,#sæt#,#sɪt#,PST/ PST.PTCP,PST,Right
+sleep,Present 3rd Singular,#slips#,#slip#,3SG-PRES,3SG-PRES,Right
+sleep,Progressive,#slipɪŋ#,#slip#,PROG,PROG,Right
+sleep,Past,#slɛpt#,#slip#,PST/ PST.PTCP,PST,Right
+sleep,Perfect,#slɛpt#,#slip#,PST/ PST.PTCP,PST,Right
+slide,Present 3rd Singular,#slaɪdz#,#slaɪd#,3SG-PRES,3SG-PRES,Right
+slide,Progressive,#slaɪdɪŋ#,#slaɪd#,PROG,PROG,Right
+slide,Past,#slɪd#,#slaɪd#,PST/ PST.PTCP,PST,Right
+slide,Perfect,#slɪd#,#slaɪd#,PST/ PST.PTCP,PST,Right
+speak,Present 3rd Singular,#spiks#,#spik#,3SG-PRES,3SG-PRES,Right
+speak,Progressive,#spikɪŋ#,#spik#,PROG,PROG,Right
+speak,Past,#spoʊk#,#spik#,PST,PST,Right
+speak,Perfect,#spoʊkən#,#spik#,PST.PTCP,PST,Right
+spend,Present 3rd Singular,#spɛndz#,#spɛnd#,3SG-PRES,3SG-PRES,Right
+spend,Progressive,#spɛndɪŋ#,#spɛnd#,PROG,PROG,Right
+spend,Past,#spɛnt#,#spɛnd#,PST/ PST.PTCP,PST,Right
+spend,Perfect,#spɛnt#,#spɛnd#,PST/ PST.PTCP,PST,Right
+stand,Present 3rd Singular,#stændz#,#stænd#,3SG-PRES,3SG-PRES,Right
+stand,Progressive,#stændɪŋ#,#stænd#,PROG,PROG,Right
+stand,Past,#stʊd#,#stænd#,PST/ PST.PTCP,PST,Right
+stand,Perfect,#stʊd#,#stænd#,PST/ PST.PTCP,PST,Right
+steal,Present 3rd Singular,#stilz#,#stil#,3SG-PRES,3SG-PRES,Right
+steal,Progressive,#stilɪŋ#,#stil#,PROG,PROG,Right
+steal,Past,#stoʊl#,#stil#,PST,PST,Right
+steal,Perfect,#stoʊlən#,#stil#,PST.PTCP,PST,Right
+stick,Present 3rd Singular,#stɪks#,#stɪk#,3SG-PRES,3SG-PRES,Right
+stick,Progressive,#stɪkɪŋ#,#stɪk#,PROG,PROG,Right
+stick,Past,#stʌk#,#stɪk#,PST/ PST.PTCP,PST,Right
+stick,Perfect,#stʌk#,#stɪk#,PST/ PST.PTCP,PST,Right
+strike,Present 3rd Singular,#stɹaɪks#,#stɹaɪk#,3SG-PRES,3SG-PRES,Right
+strike,Progressive,#stɹaɪkɪŋ#,#stɹaɪk#,PROG,PROG,Right
+strike,Past,#stɹʌk#,#stɹaɪk#,PST/ PST.PTCP,PST,Right
+strike,Perfect,#stɹʌk#,#stɹaɪk#,PST/ PST.PTCP,PST,Right
+swear,Present 3rd Singular,#swɛɹz#,#swɛɹ#,3SG-PRES,3SG-PRES,Right
+swear,Progressive,#swɛɹɪŋ#,#swɛɹ#,PROG,PROG,Right
+swear,Past,#swɔɹ#,#swɛɹ#,PST,PST,Right
+swear,Perfect,#swɔɹn#,#swɛɹ#,PST.PTCP,PST,Right
+sweep,Present 3rd Singular,#swips#,#swip#,3SG-PRES,3SG-PRES,Right
+sweep,Progressive,#swipɪŋ#,#swip#,PROG,PROG,Right
+sweep,Past,#swɛpt#,#swip#,PST/ PST.PTCP,PST,Right
+sweep,Perfect,#swɛpt#,#swip#,PST/ PST.PTCP,PST,Right
+swim,Present 3rd Singular,#swɪmz#,#swɪm#,3SG-PRES,3SG-PRES,Right
+swim,Progressive,#swɪmɪŋ#,#swɪm#,PROG,PROG,Right
+swim,Past,#swæm#,#swɪm#,PST,PST,Right
+swim,Perfect,#swʌm#,#swɪm#,PST.PTCP,PST,Right
+swing,Present 3rd Singular,#swɪŋz#,#swɪŋ#,3SG-PRES,3SG-PRES,Right
+swing,Progressive,#swɪŋɪŋ#,#swɪŋ#,PROG,PROG,Right
+swing,Past,#swʌŋ#,#swɪŋ#,PST.PTCP,PST,Right
+swing,Perfect,#swʌŋ#,#swɪŋ#,PST.PTCP,PST,Right
+take,Present 3rd Singular,#teɪks#,#teɪk#,3SG-PRES,3SG-PRES,Right
+take,Progressive,#teɪkɪŋ#,#teɪk#,PROG,PROG,Right
+take,Past,#tʊk#,#teɪk#,PST,PST,Right
+take,Perfect,#teɪkən#,#teɪk#,PST.PTCP,PST,Right
+teach,Present 3rd Singular,#titʃɪz#,#titʃ#,3SG-PRES,3SG-PRES,Right
+teach,Progressive,#titʃɪŋ#,#titʃ#,PROG,PROG,Right
+teach,Past,#tɔt#,#titʃ#,PST/ PST.PTCP,PST,Right
+teach,Perfect,#tɔt#,#titʃ#,PST/ PST.PTCP,PST,Right
+tease,Present 3rd Singular,#tizɪz#,#tiz#,3SG-PRES,3SG-PRES,Right
+tease,Progressive,#tizɪŋ#,#tiz#,PROG,PROG,Right
+tease,Past,#tizd#,#tiz#,PST/ PST.PTCP,PST,Right
+tease,Perfect,#tizd#,#tiz#,PST/ PST.PTCP,PST,Right
+tell,Present 3rd Singular,#tɛlz#,#tɛl#,3SG-PRES,3SG-PRES,Right
+tell,Progressive,#tɛlɪŋ#,#tɛl#,PROG,PROG,Right
+tell,Past,#toʊld#,#tɛl#,PST/ PST.PTCP,PST,Right
+tell,Perfect,#toʊld#,#tɛl#,PST/ PST.PTCP,PST,Right
+think,Present 3rd Singular,#θɪŋks#,#θɪŋk#,3SG-PRES,3SG-PRES,Right
+think,Progressive,#θɪŋkɪŋ#,#θɪŋk#,PROG,PROG,Right
+think,Past,#θɔt#,#θɪŋk#,PST/ PST.PTCP,PST,Right
+think,Perfect,#θɔt#,#θɪŋk#,PST/ PST.PTCP,PST,Right
+throw,Present 3rd Singular,#θɹoʊz#,#θɹoʊ#,3SG-PRES,3SG-PRES,Right
+throw,Progressive,#θɹoʊɪŋ#,#θɹoʊ#,PROG,PROG,Right
+throw,Past,#θɹu#,#θɹoʊ#,PST,PST,Right
+throw,Perfect,#θɹoʊn#,#θɹoʊn#,BARE,PST,Wrong
+tip,Present 3rd Singular,#tɪps#,#tɪp#,3SG-PRES,3SG-PRES,Right
+tip,Progressive,#tɪpɪŋ#,#tɪp#,PROG,PROG,Right
+tip,Past,#tɪpt#,#tɪp#,PST/ PST.PTCP,PST,Right
+tip,Perfect,#tɪpt#,#tɪp#,PST/ PST.PTCP,PST,Right
+understand,Present 3rd Singular,#ʌndəɹstændz#,#ʌndəɹstænd#,3SG-PRES,3SG-PRES,Right
+understand,Progressive,#ʌndəɹstændɪŋ#,#ʌndəɹstænd#,PROG,PROG,Right
+understand,Past,#ʌndəɹstʊd#,#ʌndəɹstænd#,PST/ PST.PTCP,PST,Right
+understand,Perfect,#ʌndəɹstʊd#,#ʌndəɹstænd#,PST/ PST.PTCP,PST,Right
+untie,Present 3rd Singular,#ʌntaɪz#,#ʌnta#,3SG-PRES,3SG-PRES,Wrong
+untie,Progressive,#ʌntaɪŋ#,#ʌnta#,PROG,PROG,Wrong
+untie,Past,#ʌntaɪd#,#ʌnta#,PST/ PST.PTCP,PST,Wrong
+untie,Perfect,#ʌntaɪd#,#ʌnta#,PST/ PST.PTCP,PST,Wrong
+value,Present 3rd Singular,#væljuz#,#vælju#,3SG-PRES,3SG-PRES,Right
+value,Progressive,#væljuɪŋ#,#vælju#,PROG,PROG,Right
+value,Past,#væljud#,#vælju#,PST/ PST.PTCP,PST,Right
+value,Perfect,#væljud#,#vælju#,PST/ PST.PTCP,PST,Right
+vend,Present 3rd Singular,#vɛndz#,#vɛnd#,3SG-PRES,3SG-PRES,Right
+vend,Progressive,#vɛndɪŋ#,#vɛnd#,PROG,PROG,Right
+vend,Past,#vɛndɪd#,#vɛnd#,PST/ PST.PTCP,PST,Right
+vend,Perfect,#vɛndɪd#,#vɛnd#,PST/ PST.PTCP,PST,Right
+vent,Present 3rd Singular,#vɛnts#,#vɛnt#,3SG-PRES,3SG-PRES,Right
+vent,Progressive,#vɛntɪŋ#,#vɛnt#,PROG,PROG,Right
+vent,Past,#vɛntɪd#,#vɛnt#,PST/ PST.PTCP,PST,Right
+vent,Perfect,#vɛntɪd#,#vɛnt#,PST/ PST.PTCP,PST,Right
+wait,Present 3rd Singular,#weɪts#,#weɪt#,3SG-PRES,3SG-PRES,Right
+wait,Progressive,#weɪtɪŋ#,#weɪt#,PROG,PROG,Right
+wait,Past,#weɪtɪd#,#weɪt#,PST/ PST.PTCP,PST,Right
+wait,Perfect,#weɪtɪd#,#weɪt#,PST/ PST.PTCP,PST,Right
+wake,Present 3rd Singular,#weɪks#,#weɪk#,3SG-PRES,3SG-PRES,Right
+wake,Progressive,#weɪkɪŋ#,#weɪk#,PROG,PROG,Right
+wake,Past,#woʊk#,#weɪk#,PST,PST,Right
+wake,Perfect,#woʊkən#,#weɪk#,PST.PTCP,PST,Right
+wear,Present 3rd Singular,#wɛɹz#,#wɛɹ#,3SG-PRES,3SG-PRES,Right
+wear,Progressive,#wɛɹɪŋ#,#wɛɹ#,PROG,PROG,Right
+wear,Past,#wɔɹ#,#wɛɹ#,PST,PST,Right
+wear,Perfect,#wɔɹn#,#wɛɹ#,PST.PTCP,PST,Right
+want,Present 3rd Singular,#wɑnts#,#wɑnt#,3SG-PRES,3SG-PRES,Right
+want,Progressive,#wɑntɪŋ#,#wɑnt#,PROG,PROG,Right
+want,Past,#wɑntɪd#,#wɑnt#,PST/ PST.PTCP,PST,Right
+want,Perfect,#wɑntɪd#,#wɑnt#,PST/ PST.PTCP,PST,Right
+waste,Present 3rd Singular,#weɪsts#,#weɪst#,3SG-PRES,3SG-PRES,Right
+waste,Progressive,#weɪstɪŋ#,#weɪst#,PROG,PROG,Right
+waste,Past,#weɪstɪd#,#weɪst#,PST/ PST.PTCP,PST,Right
+waste,Perfect,#weɪstɪd#,#weɪst#,PST/ PST.PTCP,PST,Right
+will,Present 3rd Singular,#wɪl#,#wɪl#,BARE,3SG-PRES,Wrong
+will,Progressive,No Progresive,,,PROG,Wrong
+will,Past,#wʊd#,#wʊ#,PST/ PST.PTCP,PST,Wrong
+will,Perfect,No Perfect Participle,,,PST,Wrong
+win,Present 3rd Singular,#wɪnz#,#wɪn#,3SG-PRES,3SG-PRES,Right
+win,Progressive,#wɪnɪŋ#,#wɪn#,PROG,PROG,Right
+win,Past,#wʌn#,#wɪn#,PST/ PST.PTCP,PST,Right
+win,Perfect,#wʌn#,#wɪn#,PST/ PST.PTCP,PST,Right
+would,Present 3rd Singular,#wʊd#,#wʊ#,PST/ PST.PTCP,3SG-PRES,Wrong
+would,Progressive,No Progresive,,,PROG,Wrong
+would,Past,#wʊd#,#wʊ#,PST/ PST.PTCP,PST,Wrong
+would,Perfect,No Perfect Participle,,,PST,Wrong
+write,Present 3rd Singular,#ɹaɪts#,#ɹaɪt#,3SG-PRES,3SG-PRES,Right
+write,Progressive,#ɹaɪtɪŋ#,#ɹaɪt#,PROG,PROG,Right
+write,Past,#ɹoʊt#,#ɹaɪt#,PST,PST,Right
+write,Perfect,#ɹɪtən#,#ɹaɪt#,PST.PTCP,PST,Right
+yap,Present 3rd Singular,#jæps#,#jæp#,3SG-PRES,3SG-PRES,Right
+yap,Progressive,#jæpɪŋ#,#jæp#,PROG,PROG,Right
+yap,Past,#jæpt#,#jæp#,PST/ PST.PTCP,PST,Right
+yap,Perfect,#jæpt#,#jæp#,PST/ PST.PTCP,PST,Right
+yawn,Present 3rd Singular,#jɔnz#,#jɔn#,3SG-PRES,3SG-PRES,Right
+yawn,Progressive,#jɔnɪŋ#,#jɔn#,PROG,PROG,Right
+yawn,Past,#jɔnd#,#jɔn#,PST/ PST.PTCP,PST,Right
+yawn,Perfect,#jɔnd#,#jɔn#,PST/ PST.PTCP,PST,Right
+yell,Present 3rd Singular,#jɛlz#,#jɛl#,3SG-PRES,3SG-PRES,Right
+yell,Progressive,#jɛlɪŋ#,#jɛl#,PROG,PROG,Right
+yell,Past,#jɛld#,#jɛl#,PST/ PST.PTCP,PST,Right
+yell,Perfect,#jɛld#,#jɛl#,PST/ PST.PTCP,PST,Right
+zap,Present 3rd Singular,#zæps#,#zæp#,3SG-PRES,3SG-PRES,Right
+zap,Progressive,#zæpɪŋ#,#zæp#,PROG,PROG,Right
+zap,Past,#zæpt#,#zæp#,PST/ PST.PTCP,PST,Right
+zap,Perfect,#zæpt#,#zæp#,PST/ PST.PTCP,PST,Right
+zoom,Present 3rd Singular,#zumz#,#zum#,3SG-PRES,3SG-PRES,Right
+zoom,Progressive,#zumɪŋ#,#zum#,PROG,PROG,Right
+zoom,Past,#zumd#,#zum#,PST/ PST.PTCP,PST,Right
+zoom,Perfect,#zumd#,#zum#,PST/ PST.PTCP,PST,Right
+
+Tense,Accuracy %,Correct,Total
+Present 3rd Singular,90.3,243,269
+Progressive,94.8,255,269
+Past,88.1,237,269
+Perfect,88.1,237,269

@@ -1,0 +1,1083 @@
+verb,tense,predicted,gold,correct
+abide,Present 3rd Singular,əbaɪdz,əbaɪdz,+
+abide,Progressive,əbaɪdɪŋ,əbaɪdɪŋ,+
+abide,Past,əbaɪdɪd,əbaɪdɪd,+
+abide,Perfect,əbaɪdɪd,əbaɪdɪd,+
+abolish,Present 3rd Singular,əbɑlɪʃɪz,əbɑlɪʃɪz,+
+abolish,Progressive,əbɑlɪʃɪŋ,əbɑlɪʃɪŋ,+
+abolish,Past,əbɑlɪʃt,əbɑlɪʃt,+
+abolish,Perfect,əbɑlɪʃt,əbɑlɪʃt,+
+accept,Present 3rd Singular,əksɛpts,əksɛpts,+
+accept,Progressive,əksɛptɪŋ,əksɛptɪŋ,+
+accept,Past,əksɛptɪd,əksɛptɪd,+
+accept,Perfect,əksɛptɪd,əksɛptɪd,+
+acknowledge,Present 3rd Singular,əknɑlɪdʒɪz,əknɑlɪdʒɪz,+
+acknowledge,Progressive,əknɑlɪdʒɪŋ,əknɑlɪdʒɪŋ,+
+acknowledge,Past,əknɑlɪdʒd,əknɑlɪdʒd,+
+acknowledge,Perfect,əknɑlɪdʒd,əknɑlɪdʒd,+
+adapt,Present 3rd Singular,ədæpts,ədæpts,+
+adapt,Progressive,ədæptɪŋ,ədæptɪŋ,+
+adapt,Past,ədæptɪd,ədæptɪd,+
+adapt,Perfect,ədæptɪd,ədæptɪd,+
+admire,Present 3rd Singular,ədmaɪɹz,ədmaɪɹz,+
+admire,Progressive,ədmaɪɹɪŋ,ədmaɪɹɪŋ,+
+admire,Past,ədmaɪɹd,ədmaɪɹd,+
+admire,Perfect,ədmaɪɹd,ədmaɪɹd,+
+advise,Present 3rd Singular,ədvaɪzɪz,ədvaɪzɪz,+
+advise,Progressive,ədvaɪzɪŋ,ədvaɪzɪŋ,+
+advise,Past,ədvaɪzd,ədvaɪzd,+
+advise,Perfect,ədvaɪzd,ədvaɪzd,+
+afford,Present 3rd Singular,ʌfoɹdz,ʌfoɹdz,+
+afford,Progressive,ʌfoɹdɪŋ,ʌfoɹdɪŋ,+
+afford,Past,ʌfoɹdɪd,ʌfoɹdɪd,+
+afford,Perfect,ʌfoɹdɪd,ʌfoɹdɪd,+
+allow,Present 3rd Singular,əlaʊz,əlaʊz,+
+allow,Progressive,əlaʊɪŋ,əlaʊɪŋ,+
+allow,Past,əlaʊd,əlaʊd,+
+allow,Perfect,əlaʊd,əlaʊd,+
+amuse,Present 3rd Singular,əmjuzɪz,əmjuzɪz,+
+amuse,Progressive,əmjuzɪŋ,əmjuzɪŋ,+
+amuse,Past,əmjuzd,əmjuzd,+
+amuse,Perfect,əmjuzd,əmjuzd,+
+apologize,Present 3rd Singular,əpɑlədʒaɪzɪz,əpɑlədʒaɪzɪz,+
+apologize,Progressive,əpɑlədʒaɪzɪŋ,əpɑlədʒaɪzɪŋ,+
+apologize,Past,əpɑlədʒaɪzd,əpɑlədʒaɪzd,+
+apologize,Perfect,əpɑlədʒaɪzd,əpɑlədʒaɪzd,+
+arrange,Present 3rd Singular,əreɪndʒɪz,əreɪndʒɪz,+
+arrange,Progressive,əreɪndʒɪŋ,əreɪndʒɪŋ,+
+arrange,Past,əreɪndʒd,əreɪndʒd,+
+arrange,Perfect,əreɪndʒd,əreɪndʒd,+
+arise,Present 3rd Singular,əɹaɪzɪz,əɹaɪzɪz,+
+arise,Progressive,əɹaɪzɪŋ,əɹaɪzɪŋ,+
+arise,Past,əɹaɪzd,əɹoʊz,-
+arise,Perfect,əɹaɪzd,əɹɪzən,-
+arrive,Present 3rd Singular,əɹaɪvz,əɹaɪvz,+
+arrive,Progressive,əɹaɪvɪŋ,əɹaɪvɪŋ,+
+arrive,Past,əɹaɪvd,əɹaɪvd,+
+arrive,Perfect,əɹaɪvd,əɹaɪvd,+
+assist,Present 3rd Singular,əsɪsts,əsɪsts,+
+assist,Progressive,əsɪstɪŋ,əsɪstɪŋ,+
+assist,Past,əsɪstɪd,əsɪstɪd,+
+assist,Perfect,əsɪstɪd,əsɪstɪd,+
+ask,Present 3rd Singular,æsks,æsks,+
+ask,Progressive,æskɪŋ,æskɪŋ,+
+ask,Past,æskt,æskt,+
+ask,Perfect,æskt,æskt,+
+associate,Present 3rd Singular,əsoʊʃieɪts,əsoʊʃieɪts,+
+associate,Progressive,əsoʊʃieɪtɪŋ,əsoʊʃieɪtɪŋ,+
+associate,Past,əsoʊʃieɪtɪd,əsoʊʃieɪtɪd,+
+associate,Perfect,əsoʊʃieɪtɪd,əsoʊʃieɪtɪd,+
+attend,Present 3rd Singular,ətɛndz,ətɛndz,+
+attend,Progressive,ətɛndɪŋ,ətɛndɪŋ,+
+attend,Past,ətɛndɪd,ətɛndɪd,+
+attend,Perfect,ətɛndɪd,ətɛndɪd,+
+awake,Present 3rd Singular,əweɪks,əweɪks,+
+awake,Progressive,əweɪkɪŋ,əweɪkɪŋ,+
+awake,Past,əweɪkt,əwoʊk,-
+awake,Perfect,əweɪkt,əwoʊkən,-
+balance,Present 3rd Singular,bælənsɪz,bælənsɪz,+
+balance,Progressive,bælənsɪŋ,bælənsɪŋ,+
+balance,Past,bælənst,bælənst,+
+balance,Perfect,bælənst,bælənst,+
+ban,Present 3rd Singular,bænz,bænz,+
+ban,Progressive,bænɪŋ,bænɪŋ,+
+ban,Past,bænd,bænd,+
+ban,Perfect,bænd,bænd,+
+bake,Present 3rd Singular,beɪks,beɪks,+
+bake,Progressive,beɪkɪŋ,beɪkɪŋ,+
+bake,Past,beɪkt,beɪkt,+
+bake,Perfect,beɪkt,beɪkt,+
+bargain,Present 3rd Singular,,bɑɹgənz,-
+bargain,Progressive,bɑɹgənɪŋ,bɑɹgənɪŋ,+
+bargain,Past,bɑɹgənd,bɑɹgənd,+
+bargain,Perfect,bɑɹgənd,bɑɹgənd,+
+bark,Present 3rd Singular,bɑɹks,bɑɹks,+
+bark,Progressive,bɑɹkɪŋ,bɑɹkɪŋ,+
+bark,Past,bɑɹkt,bɑɹkt,+
+bark,Perfect,bɑɹkt,bɑɹkt,+
+bat,Present 3rd Singular,bæts,bæts,+
+bat,Progressive,bætɪŋ,bætɪŋ,+
+bat,Past,bætɪd,bætɪd,+
+bat,Perfect,bætɪd,bætɪd,+
+bathe,Present 3rd Singular,beɪðz,beɪðz,+
+bathe,Progressive,beɪðɪŋ,beɪðɪŋ,+
+bathe,Past,beɪðd,beɪðd,+
+bathe,Perfect,beɪðd,beɪðd,+
+be,Present 3rd Singular,biz,ɪz,-
+be,Progressive,biɪŋ,biɪŋ,+
+be,Past,bid,wʌz,-
+be,Perfect,bid,bɪn,-
+beam,Present 3rd Singular,bimz,bimz,+
+beam,Progressive,bimɪŋ,bimɪŋ,+
+beam,Past,bimd,bimd,+
+beam,Perfect,bimd,bimd,+
+bear,Present 3rd Singular,bɛɹz,bɛɹz,+
+bear,Progressive,bɛɹɪŋ,bɛɹɪŋ,+
+bear,Past,bɛɹd,bɔɹ,-
+bear,Perfect,bɛɹd,bɔɹn,-
+beat,Present 3rd Singular,bits,bits,+
+beat,Progressive,bitɪŋ,bitɪŋ,+
+beat,Past,bitɪd,bit,-
+beat,Perfect,bitɪd,bitən,-
+beckon,Present 3rd Singular,bɛkənz,bɛkənz,+
+beckon,Progressive,bɛkənɪŋ,bɛkənɪŋ,+
+beckon,Past,bɛkənd,bɛkənd,+
+beckon,Perfect,bɛkənd,bɛkənd,+
+become,Present 3rd Singular,bɪkʌmz,bɪkʌmz,+
+become,Progressive,bɪkʌmɪŋ,bɪkʌmɪŋ,+
+become,Past,bɪkʌmd,bɪkeɪm,-
+become,Perfect,bɪkʌmd,bɪkʌm,-
+beep,Present 3rd Singular,bips,bips,+
+beep,Progressive,bipɪŋ,bipɪŋ,+
+beep,Past,bipt,bipt,+
+beep,Perfect,bipt,bipt,+
+beg,Present 3rd Singular,,bɛgz,-
+beg,Progressive,bɛgɪŋ,bɛgɪŋ,+
+beg,Past,bɛgd,bɛgd,+
+beg,Perfect,bɛgd,bɛgd,+
+begin,Present 3rd Singular,,bɪgɪnz,-
+begin,Progressive,bɪgɪnɪŋ,bɪgɪnɪŋ,+
+begin,Past,bɪgɪnd,bɪgæn,-
+begin,Perfect,bɪgɪnd,bɪgʌn,-
+believe,Present 3rd Singular,bɪlivz,bɪlivz,+
+believe,Progressive,bɪlivɪŋ,bɪlivɪŋ,+
+believe,Past,bɪlivd,bɪlivd,+
+believe,Perfect,bɪlivd,bɪlivd,+
+bend,Present 3rd Singular,bɛndz,bɛndz,+
+bend,Progressive,bɛndɪŋ,bɛndɪŋ,+
+bend,Past,bɛndɪd,bɛnt,-
+bend,Perfect,bɛndɪd,bɛnt,-
+benefit,Present 3rd Singular,bɛnəfɪts,bɛnəfɪts,+
+benefit,Progressive,bɛnəfɪtɪŋ,bɛnəfɪtɪŋ,+
+benefit,Past,bɛnəfɪtɪd,bɛnəfɪtɪd,+
+benefit,Perfect,bɛnəfɪtɪd,bɛnəfɪtɪd,+
+bet,Present 3rd Singular,bɛts,bɛts,+
+bet,Progressive,bɛtɪŋ,bɛtɪŋ,+
+bet,Past,bɛtɪd,bɛt,-
+bet,Perfect,bɛtɪd,bɛt,-
+beware,Present 3rd Singular,bɪwɛɹz,bɪwɛɹz,+
+beware,Progressive,bɪwɛɹɪŋ,bɪwɛɹɪŋ,+
+beware,Past,bɪwɛɹd,bɪwɛɹd,+
+beware,Perfect,bɪwɛɹd,bɪwɛɹd,+
+bewitch,Present 3rd Singular,bɪwɪtʃɪz,bɪwɪtʃɪz,+
+bewitch,Progressive,bɪwɪtʃɪŋ,bɪwɪtʃɪŋ,+
+bewitch,Past,bɪwɪtʃt,bɪwɪtʃt,+
+bewitch,Perfect,bɪwɪtʃt,bɪwɪtʃt,+
+bind,Present 3rd Singular,baɪndz,baɪndz,+
+bind,Progressive,baɪndɪŋ,baɪndɪŋ,+
+bind,Past,baɪndɪd,baʊnd,-
+bind,Perfect,baɪndɪd,baʊnd,-
+bite,Present 3rd Singular,baɪts,baɪts,+
+bite,Progressive,baɪtɪŋ,baɪtɪŋ,+
+bite,Past,baɪtɪd,bɪt,-
+bite,Perfect,baɪtɪd,bɪtən,-
+bleed,Present 3rd Singular,blidz,blidz,+
+bleed,Progressive,blidɪŋ,blidɪŋ,+
+bleed,Past,blidɪd,blɛd,-
+bleed,Perfect,blidɪd,blɛd,-
+bless,Present 3rd Singular,blɛsɪz,blɛsɪz,+
+bless,Progressive,blɛsɪŋ,blɛsɪŋ,+
+bless,Past,blɛst,blɛst,+
+bless,Perfect,blɛst,blɛst,+
+blink,Present 3rd Singular,blɪŋks,blɪŋks,+
+blink,Progressive,blɪŋkɪŋ,blɪŋkɪŋ,+
+blink,Past,blɪŋkt,blɪŋkt,+
+blink,Perfect,blɪŋkt,blɪŋkt,+
+blister,Present 3rd Singular,blɪstəɹz,blɪstəɹz,+
+blister,Progressive,blɪstəɹɪŋ,blɪstəɹɪŋ,+
+blister,Past,blɪstəɹd,blɪstəɹd,+
+blister,Perfect,blɪstəɹd,blɪstəɹd,+
+blow,Present 3rd Singular,bloʊz,bloʊz,+
+blow,Progressive,bloʊɪŋ,bloʊɪŋ,+
+blow,Past,bloʊd,blu,-
+blow,Perfect,bloʊd,bloʊn,-
+blurt,Present 3rd Singular,blɝts,blɝts,+
+blurt,Progressive,blɝtɪŋ,blɝtɪŋ,+
+blurt,Past,blɝtɪd,blɝtɪd,+
+blurt,Perfect,blɝtɪd,blɝtɪd,+
+boast,Present 3rd Singular,boʊsts,boʊsts,+
+boast,Progressive,boʊstɪŋ,boʊstɪŋ,+
+boast,Past,boʊstɪd,boʊstɪd,+
+boast,Perfect,boʊstɪd,boʊstɪd,+
+boil,Present 3rd Singular,bɔɪlz,bɔɪlz,+
+boil,Progressive,bɔɪlɪŋ,bɔɪlɪŋ,+
+boil,Past,bɔɪld,bɔɪld,+
+boil,Perfect,bɔɪld,bɔɪld,+
+bolster,Present 3rd Singular,boʊlstəɹz,boʊlstəɹz,+
+bolster,Progressive,boʊlstəɹɪŋ,boʊlstəɹɪŋ,+
+bolster,Past,boʊlstəɹd,boʊlstəɹd,+
+bolster,Perfect,boʊlstəɹd,boʊlstəɹd,+
+bounce,Present 3rd Singular,baʊnsɪz,baʊnsɪz,+
+bounce,Progressive,baʊnsɪŋ,baʊnsɪŋ,+
+bounce,Past,baʊnst,baʊnst,+
+bounce,Perfect,baʊnst,baʊnst,+
+bow,Present 3rd Singular,baʊz,baʊz,+
+bow,Progressive,baʊɪŋ,baʊɪŋ,+
+bow,Past,baʊd,baʊd,+
+bow,Perfect,baʊd,baʊd,+
+brace,Present 3rd Singular,breɪsɪz,breɪsɪz,+
+brace,Progressive,breɪsɪŋ,breɪsɪŋ,+
+brace,Past,breɪst,breɪst,+
+brace,Perfect,breɪst,breɪst,+
+break,Present 3rd Singular,bɹeɪks,bɹeɪks,+
+break,Progressive,bɹeɪkɪŋ,bɹeɪkɪŋ,+
+break,Past,bɹeɪkt,bɹoʊk,-
+break,Perfect,bɹeɪkt,bɹoʊkən,-
+bring,Present 3rd Singular,bɹɪŋz,bɹɪŋz,+
+bring,Progressive,bɹɪŋɪŋ,bɹɪŋɪŋ,+
+bring,Past,bɹɪŋd,bɹɔt,-
+bring,Perfect,bɹɪŋd,bɹɔt,-
+broadcast,Present 3rd Singular,bɹɔdkæsts,bɹɔdkæsts,+
+broadcast,Progressive,bɹɔdkæstɪŋ,bɹɔdkæstɪŋ,+
+broadcast,Past,bɹɔdkæstɪd,bɹɔdkæst,-
+broadcast,Perfect,bɹɔdkæstɪd,bɹɔdkæst,-
+bruise,Present 3rd Singular,bɹuzɪz,bɹuzɪz,+
+bruise,Progressive,bɹuzɪŋ,bɹuzɪŋ,+
+bruise,Past,bɹuzd,bɹuzd,+
+bruise,Perfect,bɹuzd,bɹuzd,+
+brush,Present 3rd Singular,bɹʌʃɪz,bɹʌʃɪz,+
+brush,Progressive,bɹʌʃɪŋ,bɹʌʃɪŋ,+
+brush,Past,bɹʌʃt,bɹʌʃt,+
+brush,Perfect,bɹʌʃt,bɹʌʃt,+
+build,Present 3rd Singular,bɪldz,bɪldz,+
+build,Progressive,bɪldɪŋ,bɪldɪŋ,+
+build,Past,bɪldɪd,bɪlt,-
+build,Perfect,bɪldɪd,bɪlt,-
+bundle,Present 3rd Singular,bʌndlz,bʌndlz,+
+bundle,Progressive,bʌndlɪŋ,bʌndlɪŋ,+
+bundle,Past,bʌndld,bʌndld,+
+bundle,Perfect,bʌndld,bʌndld,+
+burden,Present 3rd Singular,bɝdənz,bɝdənz,+
+burden,Progressive,bɝdənɪŋ,bɝdənɪŋ,+
+burden,Past,bɝdənd,bɝdənd,+
+burden,Perfect,bɝdənd,bɝdənd,+
+burst,Present 3rd Singular,bɝsts,bɝsts,+
+burst,Progressive,bɝstɪŋ,bɝstɪŋ,+
+burst,Past,bɝstɪd,bɝst,-
+burst,Perfect,bɝstɪd,bɝst,-
+buy,Present 3rd Singular,baɪz,baɪz,+
+buy,Progressive,baɪɪŋ,baɪɪŋ,+
+buy,Past,baɪd,bɔt,-
+buy,Perfect,baɪd,bɔt,-
+calculate,Present 3rd Singular,kælkjəleɪts,kælkjəleɪts,+
+calculate,Progressive,kælkjəleɪtɪŋ,kælkjəleɪtɪŋ,+
+calculate,Past,kælkjəleɪtɪd,kælkjəleɪtɪd,+
+calculate,Perfect,kælkjəleɪtɪd,kælkjəleɪtɪd,+
+call,Present 3rd Singular,kɔlz,kɔlz,+
+call,Progressive,kɔlɪŋ,kɔlɪŋ,+
+call,Past,kɔld,kɔld,+
+call,Perfect,kɔld,kɔld,+
+camp,Present 3rd Singular,kæmps,kæmps,+
+camp,Progressive,kæmpɪŋ,kæmpɪŋ,+
+camp,Past,kæmpt,kæmpt,+
+camp,Perfect,kæmpt,kæmpt,+
+can,Present 3rd Singular,kænz,kæn,-
+can,Progressive,kænɪŋ,No Progressive,-
+can,Past,kænd,kʊd,-
+can,Perfect,kænd,No Perfect Participle,-
+capture,Present 3rd Singular,kæptʃəɹz,kæptʃəɹz,+
+capture,Progressive,kæptʃəɹɪŋ,kæptʃəɹɪŋ,+
+capture,Past,kæptʃəɹd,kæptʃəɹd,+
+capture,Perfect,kæptʃəɹd,kæptʃəɹd,+
+carve,Present 3rd Singular,kɑɹvz,kɑɹvz,+
+carve,Progressive,kɑɹvɪŋ,kɑɹvɪŋ,+
+carve,Past,kɑɹvd,kɑɹvd,+
+carve,Perfect,kɑɹvd,kɑɹvd,+
+catch,Present 3rd Singular,kæʧɪz,kæʧɪz,+
+catch,Progressive,kæʧɪŋ,kæʧɪŋ,+
+catch,Past,kæʧt,kɔt,-
+catch,Perfect,kæʧt,kɔt,-
+celebrate,Present 3rd Singular,sɛləbreɪts,sɛləbreɪts,+
+celebrate,Progressive,sɛləbreɪtɪŋ,sɛləbreɪtɪŋ,+
+celebrate,Past,sɛləbreɪtɪd,sɛləbreɪtɪd,+
+celebrate,Perfect,sɛləbreɪtɪd,sɛləbreɪtɪd,+
+challenge,Present 3rd Singular,tʃælɪndʒɪz,tʃælɪndʒɪz,+
+challenge,Progressive,tʃælɪndʒɪŋ,tʃælɪndʒɪŋ,+
+challenge,Past,tʃælɪndʒd,tʃælɪndʒd,+
+challenge,Perfect,tʃælɪndʒd,tʃælɪndʒd,+
+change,Present 3rd Singular,tʃeɪndʒɪz,tʃeɪndʒɪz,+
+change,Progressive,tʃeɪndʒɪŋ,tʃeɪndʒɪŋ,+
+change,Past,tʃeɪndʒd,tʃeɪndʒd,+
+change,Perfect,tʃeɪndʒd,tʃeɪndʒd,+
+charge,Present 3rd Singular,tʃɑɹdʒɪz,tʃɑɹdʒɪz,+
+charge,Progressive,tʃɑɹdʒɪŋ,tʃɑɹdʒɪŋ,+
+charge,Past,tʃɑɹdʒd,tʃɑɹdʒd,+
+charge,Perfect,tʃɑɹdʒd,tʃɑɹdʒd,+
+cheer,Present 3rd Singular,tʃɪɹz,tʃɪɹz,+
+cheer,Progressive,tʃɪɹɪŋ,tʃɪɹɪŋ,+
+cheer,Past,tʃɪɹd,tʃɪɹd,+
+cheer,Perfect,tʃɪɹd,tʃɪɹd,+
+chew,Present 3rd Singular,tʃuz,tʃuz,+
+chew,Progressive,tʃuɪŋ,tʃuɪŋ,+
+chew,Past,tʃud,tʃud,+
+chew,Perfect,tʃud,tʃud,+
+choose,Present 3rd Singular,ʧuzɪz,ʧuzɪz,+
+choose,Progressive,ʧuzɪŋ,ʧuzɪŋ,+
+choose,Past,ʧuzd,ʧoʊz,-
+choose,Perfect,ʧuzd,ʧoʊzən,-
+clap,Present 3rd Singular,klæps,klæps,+
+clap,Progressive,klæpɪŋ,klæpɪŋ,+
+clap,Past,klæpt,klæpt,+
+clap,Perfect,klæpt,klæpt,+
+clarify,Present 3rd Singular,klɛɹəfaɪz,klɛɹəfaɪz,+
+clarify,Progressive,klɛɹəfaɪɪŋ,klɛɹəfaɪɪŋ,+
+clarify,Past,klɛɹəfaɪd,klɛɹəfaɪd,+
+clarify,Perfect,klɛɹəfaɪd,klɛɹəfaɪd,+
+classify,Present 3rd Singular,klæsəfaɪz,klæsəfaɪz,+
+classify,Progressive,klæsəfaɪɪŋ,klæsəfaɪɪŋ,+
+classify,Past,klæsəfaɪd,klæsəfaɪd,+
+classify,Perfect,klæsəfaɪd,klæsəfaɪd,+
+clean,Present 3rd Singular,klinz,klinz,+
+clean,Progressive,klinɪŋ,klinɪŋ,+
+clean,Past,klind,klind,+
+clean,Perfect,klind,klind,+
+cleanse,Present 3rd Singular,klɛnzɪz,klɛnzɪz,+
+cleanse,Progressive,klɛnzɪŋ,klɛnzɪŋ,+
+cleanse,Past,klɛnzd,klɛnzd,+
+cleanse,Perfect,klɛnzd,klɛnzd,+
+come,Present 3rd Singular,kʌmz,kʌmz,+
+come,Progressive,kʌmɪŋ,kʌmɪŋ,+
+come,Past,kʌmd,keɪm,-
+come,Perfect,kʌmd,kʌm,-
+command,Present 3rd Singular,kəmændz,kəmændz,+
+command,Progressive,kəmændɪŋ,kəmændɪŋ,+
+command,Past,kəmændɪd,kəmændɪd,+
+command,Perfect,kəmændɪd,kəmændɪd,+
+compare,Present 3rd Singular,kəmpɛɹz,kəmpɛɹz,+
+compare,Progressive,kəmpɛɹɪŋ,kəmpɛɹɪŋ,+
+compare,Past,kəmpɛɹd,kəmpɛɹd,+
+compare,Perfect,kəmpɛɹd,kəmpɛɹd,+
+confront,Present 3rd Singular,kənfɹʌnts,kənfɹʌnts,+
+confront,Progressive,kənfɹʌntɪŋ,kənfɹʌntɪŋ,+
+confront,Past,kənfɹʌntɪd,kənfɹʌntɪd,+
+confront,Perfect,kənfɹʌntɪd,kənfɹʌntɪd,+
+cost,Present 3rd Singular,kɔsts,kɔsts,+
+cost,Progressive,kɔstɪŋ,kɔstɪŋ,+
+cost,Past,kɔstɪd,kɔst,-
+cost,Perfect,kɔstɪd,kɔst,-
+could,Present 3rd Singular,kʊdz,kʊd,-
+could,Progressive,kʊdɪŋ,No Progressive,-
+could,Past,kʊdɪd,kʊd,-
+could,Perfect,kʊdɪd,No Perfect Participle,-
+creep,Present 3rd Singular,kɹips,kɹips,+
+creep,Progressive,kɹipɪŋ,kɹipɪŋ,+
+creep,Past,kɹipt,kɹɛpt,-
+creep,Perfect,kɹipt,kɹɛpt,-
+cut,Present 3rd Singular,kʌts,kʌts,+
+cut,Progressive,kʌtɪŋ,kʌtɪŋ,+
+cut,Past,kʌtɪd,kʌt,-
+cut,Perfect,kʌtɪd,kʌt,-
+deactivate,Present 3rd Singular,diæktɪveɪts,diæktɪveɪts,+
+deactivate,Progressive,diæktɪveɪtɪŋ,diæktɪveɪtɪŋ,+
+deactivate,Past,diæktɪveɪtɪd,diæktɪveɪtɪd,+
+deactivate,Perfect,diæktɪveɪtɪd,diæktɪveɪtɪd,+
+deal,Present 3rd Singular,dilz,dilz,+
+deal,Progressive,dilɪŋ,dilɪŋ,+
+deal,Past,dild,dɛlt,-
+deal,Perfect,dild,dɛlt,-
+decorate,Present 3rd Singular,dɛkəɹeɪts,dɛkəɹeɪts,+
+decorate,Progressive,dɛkəɹeɪtɪŋ,dɛkəɹeɪtɪŋ,+
+decorate,Past,dɛkəɹeɪtɪd,dɛkəɹeɪtɪd,+
+decorate,Perfect,dɛkəɹeɪtɪd,dɛkəɹeɪtɪd,+
+develop,Present 3rd Singular,dɪvɛləps,dɪvɛləps,+
+develop,Progressive,dɪvɛləpɪŋ,dɪvɛləpɪŋ,+
+develop,Past,dɪvɛləpt,dɪvɛləpt,+
+develop,Perfect,dɪvɛləpt,dɪvɛləpt,+
+dig,Present 3rd Singular,,dɪgz,-
+dig,Progressive,dɪgɪŋ,dɪgɪŋ,+
+dig,Past,dɪgd,dʌg,-
+dig,Perfect,dɪgd,dʌg,-
+dip,Present 3rd Singular,dɪps,dɪps,+
+dip,Progressive,dɪpɪŋ,dɪpɪŋ,+
+dip,Past,dɪpt,dɪpt,+
+dip,Perfect,dɪpt,dɪpt,+
+disappear,Present 3rd Singular,dɪsəpɪɹz,dɪsəpɪɹz,+
+disappear,Progressive,dɪsəpɪɹɪŋ,dɪsəpɪɹɪŋ,+
+disappear,Past,dɪsəpɪɹd,dɪsəpɪɹd,+
+disappear,Perfect,dɪsəpɪɹd,dɪsəpɪɹd,+
+dive,Present 3rd Singular,daɪvz,daɪvz,+
+dive,Progressive,daɪvɪŋ,daɪvɪŋ,+
+dive,Past,daɪvd,doʊv,-
+dive,Perfect,daɪvd,doʊv,-
+do,Present 3rd Singular,duz,dʌz,-
+do,Progressive,duɪŋ,duɪŋ,+
+do,Past,dud,dɪd,-
+do,Perfect,dud,dʌn,-
+draw,Present 3rd Singular,dɹɔz,dɹɔz,+
+draw,Progressive,dɹɔɪŋ,dɹɔɪŋ,+
+draw,Past,dɹɔd,dɹu,-
+draw,Perfect,dɹɔd,dɹɔn,-
+dream,Present 3rd Singular,dɹimz,dɹimz,+
+dream,Progressive,dɹimɪŋ,dɹimɪŋ,+
+dream,Past,dɹimd,dɹɛmt,-
+dream,Perfect,dɹimd,dɹɛmt,-
+drink,Present 3rd Singular,dɹɪŋks,dɹɪŋks,+
+drink,Progressive,dɹɪŋkɪŋ,dɹɪŋkɪŋ,+
+drink,Past,dɹɪŋkt,dɹæŋk,-
+drink,Perfect,dɹɪŋkt,dɹʌŋk,-
+drive,Present 3rd Singular,dɹaɪvz,dɹaɪvz,+
+drive,Progressive,dɹaɪvɪŋ,dɹaɪvɪŋ,+
+drive,Past,dɹaɪvd,dɹoʊv,-
+drive,Perfect,dɹaɪvd,dɹɪvən,-
+dwell,Present 3rd Singular,dwɛlz,dwɛlz,+
+dwell,Progressive,dwɛlɪŋ,dwɛlɪŋ,+
+dwell,Past,dwɛld,dwɛld,+
+dwell,Perfect,dwɛld,dwɛld,+
+earn,Present 3rd Singular,ɝnz,ɝnz,+
+earn,Progressive,ɝnɪŋ,ɝnɪŋ,+
+earn,Past,ɝnd,ɝnd,+
+earn,Perfect,ɝnd,ɝnd,+
+eat,Present 3rd Singular,its,its,+
+eat,Progressive,itɪŋ,itɪŋ,+
+eat,Past,itɪd,eɪt,-
+eat,Perfect,itɪd,itən,-
+eliminate,Present 3rd Singular,ɪlɪməneɪts,ɪlɪməneɪts,+
+eliminate,Progressive,ɪlɪməneɪtɪŋ,ɪlɪməneɪtɪŋ,+
+eliminate,Past,ɪlɪməneɪtɪd,ɪlɪməneɪtɪd,+
+eliminate,Perfect,ɪlɪməneɪtɪd,ɪlɪməneɪtɪd,+
+embrace,Present 3rd Singular,ɪmbɹeɪsɪz,ɪmbɹeɪsɪz,+
+embrace,Progressive,ɪmbɹeɪsɪŋ,ɪmbɹeɪsɪŋ,+
+embrace,Past,ɪmbɹeɪst,ɪmbɹeɪst,+
+embrace,Perfect,ɪmbɹeɪst,ɪmbɹeɪst,+
+enjoy,Present 3rd Singular,ɪnʤɔɪz,ɪnʤɔɪz,+
+enjoy,Progressive,ɪnʤɔɪɪŋ,ɪnʤɔɪɪŋ,+
+enjoy,Past,ɪnʤɔɪd,ɪnʤɔɪd,+
+enjoy,Perfect,ɪnʤɔɪd,ɪnʤɔɪd,+
+evaporate,Present 3rd Singular,ɪvæpəɹeɪts,ɪvæpəɹeɪts,+
+evaporate,Progressive,ɪvæpəɹeɪtɪŋ,ɪvæpəɹeɪtɪŋ,+
+evaporate,Past,ɪvæpəɹeɪtɪd,ɪvæpəɹeɪtɪd,+
+evaporate,Perfect,ɪvæpəɹeɪtɪd,ɪvæpəɹeɪtɪd,+
+face,Present 3rd Singular,feɪsɪz,feɪsɪz,+
+face,Progressive,feɪsɪŋ,feɪsɪŋ,+
+face,Past,feɪst,feɪst,+
+face,Perfect,feɪst,feɪst,+
+fall,Present 3rd Singular,fɔlz,fɔlz,+
+fall,Progressive,fɔlɪŋ,fɔlɪŋ,+
+fall,Past,fɔld,fɛl,-
+fall,Perfect,fɔld,fɔlən,-
+feed,Present 3rd Singular,fidz,fidz,+
+feed,Progressive,fidɪŋ,fidɪŋ,+
+feed,Past,fidɪd,fɛd,-
+feed,Perfect,fidɪd,fɛd,-
+feel,Present 3rd Singular,filz,filz,+
+feel,Progressive,filɪŋ,filɪŋ,+
+feel,Past,fild,fɛlt,-
+feel,Perfect,fild,fɛlt,-
+fidget,Present 3rd Singular,fɪdʒɪts,fɪdʒɪts,+
+fidget,Progressive,fɪdʒɪtɪŋ,fɪdʒɪtɪŋ,+
+fidget,Past,fɪdʒɪtɪd,fɪdʒɪtɪd,+
+fidget,Perfect,fɪdʒɪtɪd,fɪdʒɪtɪd,+
+fight,Present 3rd Singular,faɪts,faɪts,+
+fight,Progressive,faɪtɪŋ,faɪtɪŋ,+
+fight,Past,faɪtɪd,fɔt,-
+fight,Perfect,faɪtɪd,fɔt,-
+find,Present 3rd Singular,faɪndz,faɪndz,+
+find,Progressive,faɪndɪŋ,faɪndɪŋ,+
+find,Past,faɪndɪd,faʊnd,-
+find,Perfect,faɪndɪd,faʊnd,-
+fit,Present 3rd Singular,fɪts,fɪts,+
+fit,Progressive,fɪtɪŋ,fɪtɪŋ,+
+fit,Past,fɪtɪd,fɪt,-
+fit,Perfect,fɪtɪd,fɪt,-
+fix,Present 3rd Singular,fɪksɪz,fɪksɪz,+
+fix,Progressive,fɪksɪŋ,fɪksɪŋ,+
+fix,Past,fɪkst,fɪkst,+
+fix,Perfect,fɪkst,fɪkst,+
+flee,Present 3rd Singular,fliz,fliz,+
+flee,Progressive,fliɪŋ,fliɪŋ,+
+flee,Past,flid,flɛd,-
+flee,Perfect,flid,flɛd,-
+fling,Present 3rd Singular,flɪŋz,flɪŋz,+
+fling,Progressive,flɪŋɪŋ,flɪŋɪŋ,+
+fling,Past,flɪŋd,flʌŋ,-
+fling,Perfect,flɪŋd,flʌŋ,-
+flush,Present 3rd Singular,flʌʃɪz,flʌʃɪz,+
+flush,Progressive,flʌʃɪŋ,flʌʃɪŋ,+
+flush,Past,flʌʃt,flʌʃt,+
+flush,Perfect,flʌʃt,flʌʃt,+
+fly,Present 3rd Singular,flaɪz,flaɪz,+
+fly,Progressive,flaɪɪŋ,flaɪɪŋ,+
+fly,Past,flaɪd,flu,-
+fly,Perfect,flaɪd,floʊn,-
+forbid,Present 3rd Singular,fəɹbɪdz,fəɹbɪdz,+
+forbid,Progressive,fəɹbɪdɪŋ,fəɹbɪdɪŋ,+
+forbid,Past,fəɹbɪdɪd,fəɹbeɪd,-
+forbid,Perfect,fəɹbɪdɪd,fəɹbɪdən,-
+forget,Present 3rd Singular,,fəɹgɛts,-
+forget,Progressive,fəɹgɛtɪŋ,fəɹgɛtɪŋ,+
+forget,Past,fəɹgɛtɪd,fəɹgɑt,-
+forget,Perfect,fəɹgɛtɪd,fəɹgɑtən,-
+forgive,Present 3rd Singular,fəɹɡɪvz,fəɹɡɪvs,-
+forgive,Progressive,fəɹɡɪvɪŋ,fəɹɡɪvɪŋ,+
+forgive,Past,fəɹɡɪvd,fəɹɡeɪv,-
+forgive,Perfect,fəɹɡɪvd,fəɹɡɪvən,-
+fray,Present 3rd Singular,fɹeɪz,fɹeɪz,+
+fray,Progressive,fɹeɪɪŋ,fɹeɪŋ,-
+fray,Past,fɹeɪd,fɹeɪd,+
+fray,Perfect,fɹeɪd,fɹeɪd,+
+freeze,Present 3rd Singular,fɹizɪz,fɹizɪz,+
+freeze,Progressive,fɹizɪŋ,fɹizɪŋ,+
+freeze,Past,fɹizd,fɹoʊz,-
+freeze,Perfect,fɹizd,fɹoʊzən,-
+gain,Present 3rd Singular,,geɪnz,-
+gain,Progressive,geɪnɪŋ,geɪnɪŋ,+
+gain,Past,geɪnd,geɪnd,+
+gain,Perfect,geɪnd,geɪnd,+
+gather,Present 3rd Singular,ɡæðəɹz,ɡæðəɹz,+
+gather,Progressive,ɡæðəɹɪŋ,ɡæðəɹɪŋ,+
+gather,Past,ɡæðəɹd,ɡæðəɹd,+
+gather,Perfect,ɡæðəɹd,ɡæðəɹd,+
+generate,Present 3rd Singular,ʤɛnəɹeɪts,ʤɛnəɹeɪts,+
+generate,Progressive,ʤɛnəɹeɪtɪŋ,ʤɛnəɹeɪtɪŋ,+
+generate,Past,ʤɛnəɹeɪtɪd,ʤɛnəɹeɪtɪd,+
+generate,Perfect,ʤɛnəɹeɪtɪd,ʤɛnəɹeɪtɪd,+
+get,Present 3rd Singular,ɡets,ɡets,+
+get,Progressive,ɡetɪŋ,ɡetɪŋ,+
+get,Past,ɡetɪd,ɡɑt,-
+get,Perfect,ɡetɪd,ɡɑtn,-
+give,Present 3rd Singular,ɡɪvz,ɡɪvs,-
+give,Progressive,ɡɪvɪŋ,ɡɪvɪŋ,+
+give,Past,ɡɪvd,ɡeɪv,-
+give,Perfect,ɡɪvd,ɡɪvən,-
+go,Present 3rd Singular,ɡoʊz,ɡoʊz,+
+go,Progressive,ɡoʊɪŋ,ɡoʊɪŋ,+
+go,Past,ɡoʊd,wɛnt,-
+go,Perfect,ɡoʊd,ɡɑn,-
+grab,Present 3rd Singular,ɡɹæbz,ɡɹæbz,+
+grab,Progressive,ɡɹæbɪŋ,ɡɹæbɪŋ,+
+grab,Past,ɡɹæbd,ɡɹæbd,+
+grab,Perfect,ɡɹæbd,ɡɹæbd,+
+grow,Present 3rd Singular,ɡɹoʊz,ɡɹoʊz,+
+grow,Progressive,ɡɹoʊɪŋ,ɡɹoʊɪŋ,+
+grow,Past,ɡɹoʊd,ɡɹu,-
+grow,Perfect,ɡɹoʊd,ɡɹoʊn,-
+halt,Present 3rd Singular,hɔlts,hɔlts,+
+halt,Progressive,hɔltɪŋ,hɔltɪŋ,+
+halt,Past,hɔltɪd,hɔltɪd,+
+halt,Perfect,hɔltɪd,hɔltɪd,+
+hang,Present 3rd Singular,hæŋz,hæŋz,+
+hang,Progressive,hæŋɪŋ,hæŋɪŋ,+
+hang,Past,hæŋd,hʌŋ,-
+hang,Perfect,hæŋd,hʌŋ,-
+have,Present 3rd Singular,hæzɪz,hævz,-
+have,Progressive,hæzɪŋ,hævɪŋ,-
+have,Past,hæzd,hæd,-
+have,Perfect,hæzd,hæd,-
+heal,Present 3rd Singular,hilz,hilz,+
+heal,Progressive,hilɪŋ,hilɪŋ,+
+heal,Past,hild,hild,+
+heal,Perfect,hild,hild,+
+hear,Present 3rd Singular,hɪɹz,hɪɹz,+
+hear,Progressive,hɪɹɪŋ,hɪɹɪŋ,+
+hear,Past,hɪɹd,hɜɹd,-
+hear,Perfect,hɪɹd,hɜɹd,-
+help,Present 3rd Singular,hɛlps,hɛlps,+
+help,Progressive,hɛlpɪŋ,hɛlpɪŋ,+
+help,Past,hɛlpt,hɛlpt,+
+help,Perfect,hɛlpt,hɛlpt,+
+hide,Present 3rd Singular,haɪdz,haɪdz,+
+hide,Progressive,haɪdɪŋ,haɪdɪŋ,+
+hide,Past,haɪdɪd,hɪd,-
+hide,Perfect,haɪdɪd,hɪdən,-
+hint,Present 3rd Singular,hɪnts,hɪnts,+
+hint,Progressive,hɪntɪŋ,hɪntɪŋ,+
+hint,Past,hɪntɪd,hɪntɪd,+
+hint,Perfect,hɪntɪd,hɪntɪd,+
+hit,Present 3rd Singular,hɪts,hɪts,+
+hit,Progressive,hɪtɪŋ,hɪtɪŋ,+
+hit,Past,hɪtɪd,hɪt,-
+hit,Perfect,hɪtɪd,hɪt,-
+hold,Present 3rd Singular,hoʊldz,hoʊldz,+
+hold,Progressive,hoʊldɪŋ,hoʊldɪŋ,+
+hold,Past,hoʊldɪd,hɛld,-
+hold,Perfect,hoʊldɪd,hɛld,-
+holler,Present 3rd Singular,hɑləɹz,hɑləɹz,+
+holler,Progressive,hɑləɹɪŋ,hɑləɹɪŋ,+
+holler,Past,hɑləɹd,hɑləɹd,+
+holler,Perfect,hɑləɹd,hɑləɹd,+
+host,Present 3rd Singular,hoʊsts,hoʊsts,+
+host,Progressive,hoʊstɪŋ,hoʊstɪŋ,+
+host,Past,hoʊstɪd,hoʊstɪd,+
+host,Perfect,hoʊstɪd,hoʊstɪd,+
+hurt,Present 3rd Singular,,hɜɹts,-
+hurt,Progressive,,hɜɹtɪŋ,-
+hurt,Past,,hɜɹt,-
+hurt,Perfect,,hɜɹt,-
+idealize,Present 3rd Singular,aɪdiəlaɪzɪz,aɪdiəlaɪzɪz,+
+idealize,Progressive,aɪdiəlaɪzɪŋ,aɪdiəlaɪzɪŋ,+
+idealize,Past,aɪdiəlaɪzd,aɪdiəlaɪzd,+
+idealize,Perfect,aɪdiəlaɪzd,aɪdiəlaɪzd,+
+identify,Present 3rd Singular,aɪdɛntɪfaɪz,aɪdɛntɪfaɪz,+
+identify,Progressive,aɪdɛntɪfaɪɪŋ,aɪdɛntɪfaɪŋ,-
+identify,Past,aɪdɛntɪfaɪd,aɪdɛntɪfaɪd,+
+identify,Perfect,aɪdɛntɪfaɪd,aɪdɛntɪfaɪd,+
+ignore,Present 3rd Singular,ɪɡnɔɹz,ɪɡnɔɹz,+
+ignore,Progressive,ɪɡnɔɹɪŋ,ɪɡnɔɹɪŋ,+
+ignore,Past,ɪɡnɔɹd,ɪɡnɔɹd,+
+ignore,Perfect,ɪɡnɔɹd,ɪɡnɔɹd,+
+improve,Present 3rd Singular,ɪmpɹuvz,ɪmpɹuvz,+
+improve,Progressive,ɪmpɹuvɪŋ,ɪmpɹuvɪŋ,+
+improve,Past,ɪmpɹuvd,ɪmpɹuvd,+
+improve,Perfect,ɪmpɹuvd,ɪmpɹuvd,+
+index,Present 3rd Singular,ɪndɛksɪz,ɪndɛksɪz,+
+index,Progressive,ɪndɛksɪŋ,ɪndɛksɪŋ,+
+index,Past,ɪndɛkst,ɪndɛkst,+
+index,Perfect,ɪndɛkst,ɪndɛkst,+
+invite,Present 3rd Singular,ɪnvaɪts,ɪnvaɪts,+
+invite,Progressive,ɪnvaɪtɪŋ,ɪnvaɪtɪŋ,+
+invite,Past,ɪnvaɪtɪd,ɪnvaɪtɪd,+
+invite,Perfect,ɪnvaɪtɪd,ɪnvaɪtɪd,+
+iron,Present 3rd Singular,aɪəɹnz,aɪəɹnz,+
+iron,Progressive,aɪəɹnɪŋ,aɪəɹnɪŋ,+
+iron,Past,aɪəɹnd,aɪəɹnd,+
+iron,Perfect,aɪəɹnd,aɪəɹnd,+
+jog,Present 3rd Singular,ʤɑɡz,ʤɑɡz,+
+jog,Progressive,ʤɑɡɪŋ,ʤɑɡɪŋ,+
+jog,Past,ʤɑɡd,ʤɑɡd,+
+jog,Perfect,ʤɑɡd,ʤɑɡd,+
+join,Present 3rd Singular,ʤɔɪnz,ʤɔɪnz,+
+join,Progressive,ʤɔɪnɪŋ,ʤɔɪnɪŋ,+
+join,Past,ʤɔɪnd,ʤɔɪnd,+
+join,Perfect,ʤɔɪnd,ʤɔɪnd,+
+jot,Present 3rd Singular,ʤɑts,ʤɑts,+
+jot,Progressive,ʤɑtɪŋ,ʤɑtɪŋ,+
+jot,Past,ʤɑtɪd,ʤɑtɪd,+
+jot,Perfect,ʤɑtɪd,ʤɑtɪd,+
+juice,Present 3rd Singular,ʤusɪz,ʤusɪz,+
+juice,Progressive,ʤusɪŋ,ʤusɪŋ,+
+juice,Past,ʤust,ʤust,+
+juice,Perfect,ʤust,ʤust,+
+justify,Present 3rd Singular,ʤʌstɪfaɪz,ʤʌstɪfaɪz,+
+justify,Progressive,ʤʌstɪfaɪɪŋ,ʤʌstɪfaɪɪŋ,+
+justify,Past,ʤʌstɪfaɪd,ʤʌstɪfaɪd,+
+justify,Perfect,ʤʌstɪfaɪd,ʤʌstɪfaɪd,+
+keep,Present 3rd Singular,kips,kips,+
+keep,Progressive,kipɪŋ,kipɪŋ,+
+keep,Past,kipt,kɛpt,-
+keep,Perfect,kipt,kɛpt,-
+kick,Present 3rd Singular,kɪks,kɪks,+
+kick,Progressive,kɪkɪŋ,kɪkɪŋ,+
+kick,Past,kɪkt,kɪkt,+
+kick,Perfect,kɪkt,kɪkt,+
+kiss,Present 3rd Singular,kɪsɪz,kɪsɪz,+
+kiss,Progressive,kɪsɪŋ,kɪsɪŋ,+
+kiss,Past,kɪst,kɪst,+
+kiss,Perfect,kɪst,kɪst,+
+know,Present 3rd Singular,noʊz,noʊz,+
+know,Progressive,noʊɪŋ,noʊɪŋ,+
+know,Past,noʊd,nu,-
+know,Perfect,noʊd,noʊn,-
+label,Present 3rd Singular,leɪbəlz,leɪbəlz,+
+label,Progressive,leɪbəlɪŋ,leɪbəlɪŋ,+
+label,Past,leɪbəld,leɪbəld,+
+label,Perfect,leɪbəld,leɪbəld,+
+lag,Present 3rd Singular,læɡz,læɡz,+
+lag,Progressive,læɡɪŋ,læɡɪŋ,+
+lag,Past,læɡd,læɡd,+
+lag,Perfect,læɡd,læɡd,+
+land,Present 3rd Singular,lændz,lændz,+
+land,Progressive,lændɪŋ,lændɪŋ,+
+land,Past,lændɪd,lændɪd,+
+land,Perfect,lændɪd,lændɪd,+
+last,Present 3rd Singular,læsts,læsts,+
+last,Progressive,læstɪŋ,læstɪŋ,+
+last,Past,læstɪd,læstɪd,+
+last,Perfect,læstɪd,læstɪd,+
+lay,Present 3rd Singular,leɪz,leɪz,+
+lay,Progressive,leɪɪŋ,leɪɪŋ,+
+lay,Past,leɪd,leɪd,+
+lay,Perfect,leɪd,leɪd,+
+lead,Present 3rd Singular,lidz,lidz,+
+lead,Progressive,lidɪŋ,lidɪŋ,+
+lead,Past,lidɪd,lɛd,-
+lead,Perfect,lidɪd,lɛd,-
+lean,Present 3rd Singular,linz,linz,+
+lean,Progressive,linɪŋ,linɪŋ,+
+lean,Past,lind,lind,+
+lean,Perfect,lind,lind,+
+leave,Present 3rd Singular,livz,livz,+
+leave,Progressive,livɪŋ,livɪŋ,+
+leave,Past,livd,lɛft,-
+leave,Perfect,livd,lɛft,-
+lend,Present 3rd Singular,lɛndz,lɛndz,+
+lend,Progressive,lɛndɪŋ,lɛndɪŋ,+
+lend,Past,lɛndɪd,lɛnt,-
+lend,Perfect,lɛndɪd,lɛnt,-
+let,Present 3rd Singular,lɛts,lɛts,+
+let,Progressive,lɛtɪŋ,lɛtɪŋ,+
+let,Past,lɛtɪd,lɛt,-
+let,Perfect,lɛtɪd,lɛt,-
+lie,Present 3rd Singular,laɪz,laɪz,+
+lie,Progressive,laɪɪŋ,laɪɪŋ,+
+lie,Past,laɪd,laɪd,+
+lie,Perfect,laɪd,laɪd,+
+lift,Present 3rd Singular,lɪfts,lɪfts,+
+lift,Progressive,lɪftɪŋ,lɪftɪŋ,+
+lift,Past,lɪftɪd,lɪftɪd,+
+lift,Perfect,lɪftɪd,lɪftɪd,+
+light,Present 3rd Singular,laɪts,laɪts,+
+light,Progressive,laɪtɪŋ,laɪtɪŋ,+
+light,Past,laɪtɪd,lɪt,-
+light,Perfect,laɪtɪd,lɪt,-
+listen,Present 3rd Singular,lɪsənz,lɪsənz,+
+listen,Progressive,lɪsənɪŋ,lɪsənɪŋ,+
+listen,Past,lɪsənd,lɪsənd,+
+listen,Perfect,lɪsənd,lɪsənd,+
+lose,Present 3rd Singular,luzɪz,luzɪz,+
+lose,Progressive,luzɪŋ,luzɪŋ,+
+lose,Past,luzd,lɔst,-
+lose,Perfect,luzd,lɔst,-
+mail,Present 3rd Singular,meɪlz,meɪlz,+
+mail,Progressive,meɪlɪŋ,meɪlɪŋ,+
+mail,Past,meɪld,meɪld,+
+mail,Perfect,meɪld,meɪld,+
+make,Present 3rd Singular,meɪks,meɪks,+
+make,Progressive,meɪkɪŋ,meɪkɪŋ,+
+make,Past,meɪkt,meɪd,-
+make,Perfect,meɪkt,meɪd,-
+manipulate,Present 3rd Singular,mənɪpjəleɪts,mənɪpjəleɪts,+
+manipulate,Progressive,mənɪpjəleɪtɪŋ,mənɪpjəleɪtɪŋ,+
+manipulate,Past,mənɪpjəleɪtɪd,mənɪpjəleɪtɪd,+
+manipulate,Perfect,mənɪpjəleɪtɪd,mənɪpjəleɪtɪd,+
+map,Present 3rd Singular,mæps,mæps,+
+map,Progressive,mæpɪŋ,mæpɪŋ,+
+map,Past,mæpt,mæpt,+
+map,Perfect,mæpt,mæpt,+
+may,Present 3rd Singular,meɪz,meɪ,-
+may,Progressive,meɪɪŋ,No Progressive,-
+may,Past,meɪd,maɪt,-
+may,Perfect,meɪd,No Perfect Participle,-
+mean,Present 3rd Singular,minz,minz,+
+mean,Progressive,minɪŋ,minɪŋ,+
+mean,Past,mind,mɛnt,-
+mean,Perfect,mind,mɛnt,-
+meet,Present 3rd Singular,mits,mits,+
+meet,Progressive,mitɪŋ,mitɪŋ,+
+meet,Past,mitɪd,mɛt,-
+meet,Perfect,mitɪd,mɛt,-
+mess,Present 3rd Singular,mɛsɪz,mɛsɪz,+
+mess,Progressive,mɛsɪŋ,mɛsɪŋ,+
+mess,Past,mɛst,mɛst,+
+mess,Perfect,mɛst,mɛst,+
+might,Present 3rd Singular,maɪts,maɪt,-
+might,Progressive,maɪtɪŋ,No Progressive,-
+might,Past,maɪtɪd,maɪt,-
+might,Perfect,maɪtɪd,No Perfect Participle,-
+mock,Present 3rd Singular,mɑks,mɑks,+
+mock,Progressive,mɑkɪŋ,mɑkɪŋ,+
+mock,Past,mɑkt,mɑkt,+
+mock,Perfect,mɑkt,mɑkt,+
+must,Present 3rd Singular,mʌsts,mʌst,-
+must,Progressive,mʌstɪŋ,No Progressive,-
+must,Past,mʌstɪd,No Past Tense,-
+must,Perfect,mʌstɪd,No Perfect Participle,-
+nag,Present 3rd Singular,næɡz,næɡz,+
+nag,Progressive,næɡɪŋ,næɡɪŋ,+
+nag,Past,næɡd,næɡd,+
+nag,Perfect,næɡd,næɡd,+
+need,Present 3rd Singular,nidz,nidz,+
+need,Progressive,nidɪŋ,nidɪŋ,+
+need,Past,nidɪd,nidɪd,+
+need,Perfect,nidɪd,nidɪd,+
+negate,Present 3rd Singular,nɪɡeɪts,nɪɡeɪts,+
+negate,Progressive,nɪɡeɪtɪŋ,nɪɡeɪtɪŋ,+
+negate,Past,nɪɡeɪtɪd,nɪɡeɪtɪd,+
+negate,Perfect,nɪɡeɪtɪd,nɪɡeɪtɪd,+
+nest,Present 3rd Singular,nɛsts,nɛsts,+
+nest,Progressive,nɛstɪŋ,nɛstɪŋ,+
+nest,Past,nɛstɪd,nɛstɪd,+
+nest,Perfect,nɛstɪd,nɛstɪd,+
+obtain,Present 3rd Singular,əbteɪnz,əbteɪnz,+
+obtain,Progressive,əbteɪnɪŋ,əbteɪnɪŋ,+
+obtain,Past,əbteɪnd,əbteɪnd,+
+obtain,Perfect,əbteɪnd,əbteɪnd,+
+open,Present 3rd Singular,oʊpənz,oʊpənz,+
+open,Progressive,oʊpənɪŋ,oʊpənɪŋ,+
+open,Past,oʊpənd,oʊpənd,+
+open,Perfect,oʊpənd,oʊpənd,+
+oppose,Present 3rd Singular,əpoʊzɪz,əpoʊzɪz,+
+oppose,Progressive,əpoʊzɪŋ,əpoʊzɪŋ,+
+oppose,Past,əpoʊzd,əpoʊzd,+
+oppose,Perfect,əpoʊzd,əpoʊzd,+
+pace,Present 3rd Singular,peɪsɪz,peɪsɪz,+
+pace,Progressive,peɪsɪŋ,peɪsɪŋ,+
+pace,Past,peɪst,peɪst,+
+pace,Perfect,peɪst,peɪst,+
+pack,Present 3rd Singular,pæks,pæks,+
+pack,Progressive,pækɪŋ,pækɪŋ,+
+pack,Past,pækt,pækt,+
+pack,Perfect,pækt,pækt,+
+pay,Present 3rd Singular,peɪz,peɪz,+
+pay,Progressive,peɪɪŋ,peɪɪŋ,+
+pay,Past,peɪd,peɪd,+
+pay,Perfect,peɪd,peɪd,+
+peek,Present 3rd Singular,piks,piks,+
+peek,Progressive,pikɪŋ,pikɪŋ,+
+peek,Past,pikt,pikt,+
+peek,Perfect,pikt,pikt,+
+perfect,Present 3rd Singular,pɝfɛkts,pɝfɛkts,+
+perfect,Progressive,pɝfɛktɪŋ,pɝfɛktɪŋ,+
+perfect,Past,pɝfɛktɪd,pɝfɛktɪd,+
+perfect,Perfect,pɝfɛktɪd,pɝfɛktɪd,+
+predict,Present 3rd Singular,pɹɪdɪkts,pɹɪdɪkts,+
+predict,Progressive,pɹɪdɪktɪŋ,pɹɪdɪktɪŋ,+
+predict,Past,pɹɪdɪktɪd,pɹɪdɪktɪd,+
+predict,Perfect,pɹɪdɪktɪd,pɹɪdɪktɪd,+
+put,Present 3rd Singular,pʊts,pʊts,+
+put,Progressive,pʊtɪŋ,pʊtɪŋ,+
+put,Past,pʊtɪd,pʊt,-
+put,Perfect,pʊtɪd,pʊt,-
+quack,Present 3rd Singular,kwæks,kwæks,+
+quack,Progressive,kwækɪŋ,kwækɪŋ,+
+quack,Past,kwækt,kwækt,+
+quack,Perfect,kwækt,kwækt,+
+race,Present 3rd Singular,ɹeɪsɪz,ɹeɪsɪz,+
+race,Progressive,ɹeɪsɪŋ,ɹeɪsɪŋ,+
+race,Past,ɹeɪst,ɹeɪst,+
+race,Perfect,ɹeɪst,ɹeɪst,+
+react,Present 3rd Singular,ɹiækts,ɹiækts,+
+react,Progressive,ɹiæktɪŋ,ɹiæktɪŋ,+
+react,Past,ɹiæktɪd,ɹiæktɪd,+
+react,Perfect,ɹiæktɪd,ɹiæktɪd,+
+read,Present 3rd Singular,ɹidz,ɹidz,+
+read,Progressive,ɹidɪŋ,ɹidɪŋ,+
+read,Past,ɹidɪd,ɹɛd,-
+read,Perfect,ɹidɪd,ɹɛd,-
+ride,Present 3rd Singular,ɹaɪdz,ɹaɪdz,+
+ride,Progressive,ɹaɪdɪŋ,ɹaɪdɪŋ,+
+ride,Past,ɹaɪdɪd,ɹoʊd,-
+ride,Perfect,ɹaɪdɪd,ɹɪdən,-
+ring,Present 3rd Singular,ɹɪŋz,ɹɪŋz,+
+ring,Progressive,ɹɪŋɪŋ,ɹɪŋɪŋ,+
+ring,Past,ɹɪŋd,ɹæŋ,-
+ring,Perfect,ɹɪŋd,ɹʌŋ,-
+rise,Present 3rd Singular,ɹaɪzɪz,ɹaɪzɪz,+
+rise,Progressive,ɹaɪzɪŋ,ɹaɪzɪŋ,+
+rise,Past,ɹaɪzd,ɹoʊz,-
+rise,Perfect,ɹaɪzd,ɹɪzən,-
+run,Present 3rd Singular,ɹʌnz,ɹʌnz,+
+run,Progressive,ɹʌnɪŋ,ɹʌnɪŋ,+
+run,Past,ɹʌnd,ɹæn,-
+run,Perfect,ɹʌnd,ɹʌn,-
+save,Present 3rd Singular,seɪvz,seɪvz,+
+save,Progressive,seɪvɪŋ,seɪvɪŋ,+
+save,Past,seɪvd,seɪvd,+
+save,Perfect,seɪvd,seɪvd,+
+say,Present 3rd Singular,seɪz,sɛz,-
+say,Progressive,seɪɪŋ,seɪɪŋ,+
+say,Past,seɪd,sɛd,-
+say,Perfect,seɪd,sɛd,-
+scan,Present 3rd Singular,skænz,skænz,+
+scan,Progressive,skænɪŋ,skænɪŋ,+
+scan,Past,skænd,skænd,+
+scan,Perfect,skænd,skænd,+
+seat,Present 3rd Singular,sits,sits,+
+seat,Progressive,sitɪŋ,sitɪŋ,+
+seat,Past,sitɪd,sitɪd,+
+seat,Perfect,sitɪd,sitɪd,+
+see,Present 3rd Singular,siz,siz,+
+see,Progressive,siɪŋ,siɪŋ,+
+see,Past,sid,sɔ,-
+see,Perfect,sid,sin,-
+sell,Present 3rd Singular,sɛlz,sɛlz,+
+sell,Progressive,sɛlɪŋ,sɛlɪŋ,+
+sell,Past,sɛld,soʊld,-
+sell,Perfect,sɛld,soʊld,-
+send,Present 3rd Singular,sɛndz,sɛndz,+
+send,Progressive,sɛndɪŋ,sɛndɪŋ,+
+send,Past,sɛndɪd,sɛnt,-
+send,Perfect,sɛndɪd,sɛnt,-
+set,Present 3rd Singular,sɛts,sɛts,+
+set,Progressive,sɛtɪŋ,sɛtɪŋ,+
+set,Past,sɛtɪd,sɛt,-
+set,Perfect,sɛtɪd,sɛt,-
+shall,Present 3rd Singular,ʃælz,ʃæl,-
+shall,Progressive,ʃælɪŋ,No Progressive,-
+shall,Past,ʃæld,ʃʊd,-
+shall,Perfect,ʃæld,No Perfect Participle,-
+shine,Present 3rd Singular,ʃaɪnz,ʃaɪnz,+
+shine,Progressive,ʃaɪnɪŋ,ʃaɪnɪŋ,+
+shine,Past,ʃaɪnd,ʃoʊn,-
+shine,Perfect,ʃaɪnd,ʃoʊn,-
+shoot,Present 3rd Singular,ʃuts,ʃuts,+
+shoot,Progressive,ʃutɪŋ,ʃutɪŋ,+
+shoot,Past,ʃutɪd,ʃɑt,-
+shoot,Perfect,ʃutɪd,ʃɑt,-
+should,Present 3rd Singular,ʃʊdz,ʃʊd,-
+should,Progressive,ʃʊdɪŋ,No Progressive,-
+should,Past,ʃʊdɪd,ʃʊd,-
+should,Perfect,ʃʊdɪd,No Perfect Participle,-
+show,Present 3rd Singular,ʃoʊz,ʃoʊz,+
+show,Progressive,ʃoʊɪŋ,ʃoʊɪŋ,+
+show,Past,ʃoʊd,ʃoʊd,+
+show,Perfect,ʃoʊd,ʃoʊd,+
+shut,Present 3rd Singular,ʃʌts,ʃʌts,+
+shut,Progressive,ʃʌtɪŋ,ʃʌtɪŋ,+
+shut,Past,ʃʌtɪd,ʃʌt,-
+shut,Perfect,ʃʌtɪd,ʃʌt,-
+sing,Present 3rd Singular,sɪŋz,sɪŋz,+
+sing,Progressive,sɪŋɪŋ,sɪŋɪŋ,+
+sing,Past,sɪŋd,sæŋ,-
+sing,Perfect,sɪŋd,sʌŋ,-
+sit,Present 3rd Singular,sɪts,sɪts,+
+sit,Progressive,sɪtɪŋ,sɪtɪŋ,+
+sit,Past,sɪtɪd,sæt,-
+sit,Perfect,sɪtɪd,sæt,-
+sleep,Present 3rd Singular,slips,slips,+
+sleep,Progressive,slipɪŋ,slipɪŋ,+
+sleep,Past,slipt,slɛpt,-
+sleep,Perfect,slipt,slɛpt,-
+slide,Present 3rd Singular,slaɪdz,slaɪdz,+
+slide,Progressive,slaɪdɪŋ,slaɪdɪŋ,+
+slide,Past,slaɪdɪd,slɪd,-
+slide,Perfect,slaɪdɪd,slɪd,-
+speak,Present 3rd Singular,spiks,spiks,+
+speak,Progressive,spikɪŋ,spikɪŋ,+
+speak,Past,spikt,spoʊk,-
+speak,Perfect,spikt,spoʊkən,-
+spend,Present 3rd Singular,spɛndz,spɛndz,+
+spend,Progressive,spɛndɪŋ,spɛndɪŋ,+
+spend,Past,spɛndɪd,spɛnt,-
+spend,Perfect,spɛndɪd,spɛnt,-
+stand,Present 3rd Singular,stændz,stændz,+
+stand,Progressive,stændɪŋ,stændɪŋ,+
+stand,Past,stændɪd,stʊd,-
+stand,Perfect,stændɪd,stʊd,-
+steal,Present 3rd Singular,stilz,stilz,+
+steal,Progressive,stilɪŋ,stilɪŋ,+
+steal,Past,stild,stoʊl,-
+steal,Perfect,stild,stoʊlən,-
+stick,Present 3rd Singular,stɪks,stɪks,+
+stick,Progressive,stɪkɪŋ,stɪkɪŋ,+
+stick,Past,stɪkt,stʌk,-
+stick,Perfect,stɪkt,stʌk,-
+strike,Present 3rd Singular,stɹaɪks,stɹaɪks,+
+strike,Progressive,stɹaɪkɪŋ,stɹaɪkɪŋ,+
+strike,Past,stɹaɪkt,stɹʌk,-
+strike,Perfect,stɹaɪkt,stɹʌk,-
+swear,Present 3rd Singular,swɛɹz,swɛɹz,+
+swear,Progressive,swɛɹɪŋ,swɛɹɪŋ,+
+swear,Past,swɛɹd,swɔɹ,-
+swear,Perfect,swɛɹd,swɔɹn,-
+sweep,Present 3rd Singular,swips,swips,+
+sweep,Progressive,swipɪŋ,swipɪŋ,+
+sweep,Past,swipt,swɛpt,-
+sweep,Perfect,swipt,swɛpt,-
+swim,Present 3rd Singular,swɪmz,swɪmz,+
+swim,Progressive,swɪmɪŋ,swɪmɪŋ,+
+swim,Past,swɪmd,swæm,-
+swim,Perfect,swɪmd,swʌm,-
+swing,Present 3rd Singular,swɪŋz,swɪŋz,+
+swing,Progressive,swɪŋɪŋ,swɪŋɪŋ,+
+swing,Past,swɪŋd,swʌŋ,-
+swing,Perfect,swɪŋd,swʌŋ,-
+take,Present 3rd Singular,teɪks,teɪks,+
+take,Progressive,teɪkɪŋ,teɪkɪŋ,+
+take,Past,teɪkt,tʊk,-
+take,Perfect,teɪkt,teɪkən,-
+teach,Present 3rd Singular,titʃɪz,titʃɪz,+
+teach,Progressive,titʃɪŋ,titʃɪŋ,+
+teach,Past,titʃt,tɔt,-
+teach,Perfect,titʃt,tɔt,-
+tease,Present 3rd Singular,tizɪz,tizɪz,+
+tease,Progressive,tizɪŋ,tizɪŋ,+
+tease,Past,tizd,tizd,+
+tease,Perfect,tizd,tizd,+
+tell,Present 3rd Singular,tɛlz,tɛlz,+
+tell,Progressive,tɛlɪŋ,tɛlɪŋ,+
+tell,Past,tɛld,toʊld,-
+tell,Perfect,tɛld,toʊld,-
+think,Present 3rd Singular,θɪŋks,θɪŋks,+
+think,Progressive,θɪŋkɪŋ,θɪŋkɪŋ,+
+think,Past,θɪŋkt,θɔt,-
+think,Perfect,θɪŋkt,θɔt,-
+throw,Present 3rd Singular,θɹoʊz,θɹoʊz,+
+throw,Progressive,θɹoʊɪŋ,θɹoʊɪŋ,+
+throw,Past,θɹoʊd,θɹu,-
+throw,Perfect,θɹoʊd,θɹoʊn,-
+tip,Present 3rd Singular,tɪps,tɪps,+
+tip,Progressive,tɪpɪŋ,tɪpɪŋ,+
+tip,Past,tɪpt,tɪpt,+
+tip,Perfect,tɪpt,tɪpt,+
+understand,Present 3rd Singular,ʌndəɹstændz,ʌndəɹstændz,+
+understand,Progressive,ʌndəɹstændɪŋ,ʌndəɹstændɪŋ,+
+understand,Past,ʌndəɹstændɪd,ʌndəɹstʊd,-
+understand,Perfect,ʌndəɹstændɪd,ʌndəɹstʊd,-
+untie,Present 3rd Singular,ʌntaɪz,ʌntaɪz,+
+untie,Progressive,ʌntaɪɪŋ,ʌntaɪŋ,-
+untie,Past,ʌntaɪd,ʌntaɪd,+
+untie,Perfect,ʌntaɪd,ʌntaɪd,+
+value,Present 3rd Singular,væljuz,væljuz,+
+value,Progressive,væljuɪŋ,væljuɪŋ,+
+value,Past,væljud,væljud,+
+value,Perfect,væljud,væljud,+
+vend,Present 3rd Singular,vɛndz,vɛndz,+
+vend,Progressive,vɛndɪŋ,vɛndɪŋ,+
+vend,Past,vɛndɪd,vɛndɪd,+
+vend,Perfect,vɛndɪd,vɛndɪd,+
+vent,Present 3rd Singular,vɛnts,vɛnts,+
+vent,Progressive,vɛntɪŋ,vɛntɪŋ,+
+vent,Past,vɛntɪd,vɛntɪd,+
+vent,Perfect,vɛntɪd,vɛntɪd,+
+wait,Present 3rd Singular,weɪts,weɪts,+
+wait,Progressive,weɪtɪŋ,weɪtɪŋ,+
+wait,Past,weɪtɪd,weɪtɪd,+
+wait,Perfect,weɪtɪd,weɪtɪd,+
+wake,Present 3rd Singular,weɪks,weɪks,+
+wake,Progressive,weɪkɪŋ,weɪkɪŋ,+
+wake,Past,weɪkt,woʊk,-
+wake,Perfect,weɪkt,woʊkən,-
+wear,Present 3rd Singular,wɛɹz,wɛɹz,+
+wear,Progressive,wɛɹɪŋ,wɛɹɪŋ,+
+wear,Past,wɛɹd,wɔɹ,-
+wear,Perfect,wɛɹd,wɔɹn,-
+want,Present 3rd Singular,wɑnts,wɑnts,+
+want,Progressive,wɑntɪŋ,wɑntɪŋ,+
+want,Past,wɑntɪd,wɑntɪd,+
+want,Perfect,wɑntɪd,wɑntɪd,+
+waste,Present 3rd Singular,weɪsts,weɪsts,+
+waste,Progressive,weɪstɪŋ,weɪstɪŋ,+
+waste,Past,weɪstɪd,weɪstɪd,+
+waste,Perfect,weɪstɪd,weɪstɪd,+
+will,Present 3rd Singular,wɪlz,wɪl,-
+will,Progressive,wɪlɪŋ,No Progresive,-
+will,Past,wɪld,wʊd,-
+will,Perfect,wɪld,No Perfect Participle,-
+win,Present 3rd Singular,wɪnz,wɪnz,+
+win,Progressive,wɪnɪŋ,wɪnɪŋ,+
+win,Past,wɪnd,wʌn,-
+win,Perfect,wɪnd,wʌn,-
+would,Present 3rd Singular,wʊdz,wʊd,-
+would,Progressive,wʊdɪŋ,No Progresive,-
+would,Past,wʊdɪd,wʊd,-
+would,Perfect,wʊdɪd,No Perfect Participle,-
+write,Present 3rd Singular,ɹaɪts,ɹaɪts,+
+write,Progressive,ɹaɪtɪŋ,ɹaɪtɪŋ,+
+write,Past,ɹaɪtɪd,ɹoʊt,-
+write,Perfect,ɹaɪtɪd,ɹɪtən,-
+yap,Present 3rd Singular,jæps,jæps,+
+yap,Progressive,jæpɪŋ,jæpɪŋ,+
+yap,Past,jæpt,jæpt,+
+yap,Perfect,jæpt,jæpt,+
+yawn,Present 3rd Singular,jɔnz,jɔnz,+
+yawn,Progressive,jɔnɪŋ,jɔnɪŋ,+
+yawn,Past,jɔnd,jɔnd,+
+yawn,Perfect,jɔnd,jɔnd,+
+yell,Present 3rd Singular,jɛlz,jɛlz,+
+yell,Progressive,jɛlɪŋ,jɛlɪŋ,+
+yell,Past,jɛld,jɛld,+
+yell,Perfect,jɛld,jɛld,+
+zap,Present 3rd Singular,zæps,zæps,+
+zap,Progressive,zæpɪŋ,zæpɪŋ,+
+zap,Past,zæpt,zæpt,+
+zap,Perfect,zæpt,zæpt,+
+zoom,Present 3rd Singular,zumz,zumz,+
+zoom,Progressive,zumɪŋ,zumɪŋ,+
+zoom,Past,zumd,zumd,+
+zoom,Perfect,zumd,zumd,+
+
+Tense,Accuracy %,Correct,Total
+Present 3rd Singular,91.8,247,269
+Progressive,94.8,255,269
+Past,56.9,153,269
+Perfect,56.9,153,269
